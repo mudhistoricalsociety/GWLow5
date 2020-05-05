@@ -1,0 +1,110 @@
+#AREADATA
+Name        (XeNos)	SeaHaven    The Gods Area~
+Builders    None~
+VNUMs       1200 1213
+Security    3
+Recall      0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#1200
+Marlin's Room~
+You are lounging in a quiet cosy parlour, warmed by a gentle magical fire
+which twinkles happily in a warm fireplace.  There are no doors out. 
+Clearly the owner of this room needs none.  
+~
+0 5252100 0
+D5
+~
+~
+0 0 3001
+S
+#1201
+Tec's Place~
+as you come is you see tec typing in the air 
+whith every line he types the varry nature of things change 
+~
+0 9758 0
+S
+#1202
+A Small Wooded Sanctuary~
+~
+0 1048580 0
+S
+#1203
+The Clearing~
+You hear the soft murmur of a brook nearby, accompanied by the soft rumble of a waterfall cascading down a small rock face. Lush greenery of ivy, grass and small shrubs grow around the edges of the clearing, a wall of trees just behind them. Soft sunlight
+
+
+
+
+
+
+ spills from the thin canopy above, bathing the area in warmth and light.
+~
+0 4 3
+E
+brook~
+A small brook runs through here, bubbling lightly as it drops off the two-foot drop into a small puddle, then continuing on its way.~
+E
+trees~
+A wall of trees leads into the forest.~
+E
+sun~
+Soft sunlight surrounds the area, warming you.~
+S
+#1204
+Dracos's Room~
+You are standing in Dracos's Room...You better leave if you werent invited!!
+~
+0 25630 0
+D5
+~
+~
+0 0 3054
+S
+#1212
+Room of the Mooglementor~
+Woopie doo da, you are in SirMog's room.  Do people actually have
+CONFIG -BRIEF?  Room descriptions sure are spammy. Heh heh.
+~
+0 24588 0
+S
+#1213
+Sage's Room Of Sex~
+HeH descriptions sucks BALLZ!
+~
+0 24588 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

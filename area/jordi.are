@@ -1,0 +1,244 @@
+#AREADATA
+Name        Jordi's Kingdom~
+Builders    None~
+VNUMs       46400 46499
+Security    5
+Recall      3001
+End
+
+
+
+#MOBILES
+#46400
+pack guardian~
+The Pack Guardian~
+The Pack Guardian Stands here looking imposing
+~
+~
+2065 12591146 0 S
+10006 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#46401
+pack priest~
+The Pack Priest~
+The Pack Priest stands here
+~
+~
+2051 136 0 S
+1502 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#46400
+Sword of the Guardian~
+sword of the Guardian~
+A Sword of the guardian lies here~
+~
+5 16507 8193
+9024 0 0 9
+10000 1000000 0
+A
+13 3392
+A
+18 1000
+A
+19 1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#46400
+The Pack Castle Entrance~
+You have entered the castle of The Pack.
+Umm... Jordi, ya bum, e-mail me the
+room desc to godwars@softcon.com!
+~
+0 0 0
+D0
+~
+~
+0 0 46402
+D1
+~
+~
+0 0 46403
+D2
+~
+~
+0 0 3001
+D3
+~
+~
+0 0 46401
+S
+#46401
+Meeting Chambers~
+Umm... Jordi, ya bum, e-mail me the
+room desc to godwars@softcon.com!
+~
+0 0 0
+D1
+~
+~
+0 0 46400
+S
+#46402
+Healers Hall~
+Umm... Jordi, ya bum, e-mail me the
+room desc to godwars@softcon.com!
+~
+0 1024 0
+D2
+~
+~
+0 0 46400
+S
+#46403
+Teleportation Chambers~
+Umm... Jordi, ya bum, e-mail me the
+room desc to godwars@softcon.com!
+~
+0 0 0
+E
+sign~
+The sign seems to be a list of areas.  The following are listed:
+Arachnos               Atlantis                Canyon
+Draconia               Drow                    Galaxy
+Hightower              Mahntor                 Megacity
+Midgaard               Newthalos               Sphinx
+Staff                  Timelord                Weed
+~
+T
+arachnos~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 6200 0
+T
+atlantis~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 8114 0
+T
+canyon~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 9201 0
+T
+draconia~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2201 0
+T
+drow~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 5100 0
+T
+galaxy~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 9301 0
+T
+hightower~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 1312 0
+T
+mahntor~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2362 0
+T
+megacity~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 8001 0
+T
+midgaard~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 3001 0
+T
+newthalos~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 5300 0
+T
+sphinx~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2652 0
+T
+staff~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 25008 0
+T
+timelord~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2549 0
+T
+weed~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 30233 0
+D3
+~
+~
+0 0 46400
+S
+#0
+
+
+
+#SPECIALS
+M 46400 spec_pack
+M 46401 spec_cast_adept
+S
+
+
+
+#RESETS
+M 0 46400 1 46400
+E 0 46400 0 16
+M 0 46401 1 46402
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

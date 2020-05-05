@@ -1,0 +1,221 @@
+#AREADATA
+Name        Novas's Kingdom~
+Builders    None~
+VNUMs       46600 46699
+Security    5
+Recall      3001
+End
+
+
+
+#MOBILES
+#46600
+dragon knyght guardian~
+The #4Dragon#7Knyght#n Guardian~
+The #4Dragon#7Knyght#n Guardian stands here.
+~
+~
+2065 4202538 0 S
+8001 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#46601
+dragon knyght priest~
+The #4Dragon#7Knyght#n Priest~
+The #4Dragon#7Knyght#n Priest stands here
+~
+~
+2051 136 0 S
+1512 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#46600
+no name Castle Entrance~
+You have entered the castle of no name.
+Umm... Nova, ya bum, e-mail me the
+room desc to godwars@softcon.com!
+~
+0 0 0
+D0
+~
+~
+0 0 46602
+D1
+~
+~
+0 0 46603
+D2
+~
+~
+0 0 3001
+D3
+~
+~
+0 0 46601
+S
+#46601
+Meeting Chambers~
+Umm... Nova, ya bum, e-mail me the
+room desc to godwars@softcon.com!
+~
+0 0 0
+D1
+~
+~
+0 0 46600
+S
+#46602
+Healers Hall~
+Umm... Nova, ya bum, e-mail me the
+room desc to godwars@softcon.com!
+~
+0 1024 0
+D2
+~
+~
+0 0 46600
+S
+#46603
+Teleportation Chambers~
+Umm... Nova, ya bum, e-mail me the
+room desc to godwars@softcon.com!
+~
+0 0 0
+E
+sign~
+The sign seems to be a list of areas.  The following are listed:
+Arachnos               Atlantis                Canyon
+Draconia               Drow                    Galaxy
+Hightower              Mahntor                 Megacity
+Midgaard               Newthalos               Sphinx
+Staff                  Timelord                Weed
+~
+T
+arachnos~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 6200 0
+T
+atlantis~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 8114 0
+T
+canyon~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 9201 0
+T
+draconia~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2201 0
+T
+drow~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 5100 0
+T
+galaxy~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 9301 0
+T
+hightower~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 1312 0
+T
+mahntor~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2362 0
+T
+megacity~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 8001 0
+T
+midgaard~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 3001 0
+T
+newthalos~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 5300 0
+T
+sphinx~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2652 0
+T
+staff~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 25008 0
+T
+timelord~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2549 0
+T
+weed~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 30233 0
+D3
+~
+~
+0 0 46600
+S
+#0
+
+
+
+#SPECIALS
+M 46600 spec_nova
+M 46601 spec_cast_adept
+S
+
+
+
+#RESETS
+M 0 46600 1 46600
+M 0 46601 1 46602
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

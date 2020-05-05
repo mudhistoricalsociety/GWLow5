@@ -1,0 +1,208 @@
+#AREADATA
+Name        Katrina - Midgaard Brothel~
+Builders    None~
+VNUMs       41000 41500
+Security    9
+Recall      3001
+End
+
+
+
+#MOBILES
+#41002
+man bouncer~
+a bouncer~
+A man leans against the wall, and nods to you as you pass.
+~
+He's dressed mostly in leather, and he seems pretty tough.  After looking
+you over he nods and steps aside, letting you pass through the doorway.  
+~
+3 0 0 S
+224 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#41003
+madame woman~
+the madame~
+A beautiful young woman stands here, smiling seductively.
+~
+Long red hair falls down over her smooth shoulders, setting off her blue
+eyes.  Her supple breasts are barely restrained by a black leather halter
+top, and you can clearly see her nipples straining to poke through it.  She
+wears nothing but a pair of heels from the waist down, and is completely
+smooth between her legs.  She doesn't seem the least bit embarassed to be
+standing like this, and she smiles as you look her over.  
+~
+3 0 0 S
+323 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#41001
+black leather halter top~
+#0a black leather halter top#n~
+A pile of black leather rests on the floor~
+~
+9 512 9
+11 0 0 0
+2 50123 0
+A
+19 4
+A
+18 2
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#41002
+black leather studded collar~
+#0a black leather collar studded with diamonds#n~
+A beautiful leather collar lies on the ground here.~
+~
+9 512 5
+0 0 0 0
+1 4014591 0
+A
+2 4
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#41003
+black stiletto heels~
+#0a pair of black stiletto heels#n~
+A pair of black heels rest next to each other.~
+~
+9 512 65
+0 0 0 0
+2 3134 0
+A
+19 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#41000
+#QA side alley#n~
+This is a little side alley that runs along the street of Midgaard,
+between two buildings.  Trash litters the ground, and there's very little
+light, save for some kind of pink glow off to your north.  
+~
+0 1 1
+D0
+~
+~
+0 0 41001
+D2
+~
+~
+0 0 3026
+S
+#41001
+#QA side alley#n~
+At this point in the alley, the glow gets stronger, and it seems to be
+coming from a half-open door further down the alley.  It silhouettes the
+outline of a man who's leaning against the wall, and as you approach he
+steps in front of the door, waiting for you.  
+~
+0 0 1
+D0
+~
+~
+0 0 41002
+D2
+~
+~
+0 0 41000
+S
+#41002
+#QA dead-end in the alley#n~
+The alley dead-ends here, a concrete wall running up to the height of the
+surrounding two buildings.  A door is off to your west, leading into some
+kind of club or something, you can hear the sounds of men and women from
+inside, but no music.  A man stands by the door, and after looking over you
+several times, he waves you on and steps aside, letting you in if you want. 
+~
+0 0 0
+D2
+~
+~
+0 0 41001
+D3
+~
+~
+3 0 41003
+S
+#41003
+#5Just inside the brothel#n~
+Now that you've stepped inside, it's more than easy enough to tell what
+this place is for.  What you originally thought were words turn out to be
+moans of pleasure, and all around you naked girls swarm, the few who are
+clothed wear only panties.  The madame sits in a chair here, and as you
+enter she rises to her feet to greet you, smiling softly.  
+~
+0 0 0
+D1
+~
+~
+3 0 41002
+D3
+~
+~
+0 0 41004
+S
+#41004
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41003
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 41002 1 41002
+M 0 41003 1 41003
+E 0 41002 0 3
+E 0 41003 0 8
+E 0 41001 0 5
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

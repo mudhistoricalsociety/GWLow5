@@ -1,0 +1,327 @@
+#AREADATA
+Name        Monkies~
+Builders    Jester~
+VNUMs       91000 91099
+Security    1
+Recall      3001
+End
+
+
+
+#MOBILES
+#91011
+wild monkey~
+a wild monkey~
+A small brown monky sits in the branches of a nearby tree.
+~
+You see a small brown monkey sitting here licking a stick and pointing fingers at you.
+~
+19 268435456 500 S
+53 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91013
+butterfly insect~
+A beautiful butterfly~
+A small colorful insect flies around your head.
+~
+You see a small winged insect of many colors.
+~
+1 8320 1000 S
+49 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#91022
+fireplace ~
+a small fireplace~
+A small fireplace of stone is glowing brightly.~
+~
+12 1 0
+0 0 0 0
+1000 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#91023
+altar meeting room~
+a meeting altar~
+A small altar covered in ash and paint sit here in the center of the room.~
+~
+12 64 0
+0 0 0 0
+10000 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#91024
+bowel paints~
+a small broken bowl~
+A small bowl.~
+~
+13 192 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#91000
+Home Office of Mortal Affairs and monkey trading~
+You are standing in  a small dim lit room.  You can hear the chattering of monkies from the shadows in the corners.  In the center of the room you see a small plastic desk with a name plaque that says "Jester" on it.  A black answering machine sits here, seemingly broken cause it keeps playing "Be back soon...be back soon."
+~
+0 0 0
+S
+#91011
+Welcome to the Jungle~
+You are standing at the edge of a vast line of trees.  You can hear the chattering of monkies and wild birds from the depths of the forest.  A gentle dew is covering every plant leaf that covers the ground and drips from the tree bowes far above.
+~
+0 0 4
+D1
+~
+~
+0 0 91012
+S
+#91012
+Just within the jungle~
+You are on a small path running through the jungle.  Dense undergrowth limits your travels to a slow pace as you watch for dangerous animals in the area.  
+~
+0 8193 3
+D1
+~
+~
+0 0 91013
+D3
+~
+~
+0 0 91011
+S
+#91013
+Jungle Terrain~
+You are in the jungle, twisting and turning around bush and tree.  Small butterflies flutter around your head and bird chirp from the trees above.
+~
+0 8193 3
+D0
+~
+~
+0 0 91014
+D3
+~
+~
+0 0 91012
+S
+#91014
+Jungle Terrain~
+You are in the jungle, twisting and turning around bush and tree.  Small butterflies flutter around your head and bird chirp from the trees above.
+~
+0 8193 3
+D1
+~
+~
+0 0 91015
+D2
+~
+~
+0 0 91013
+S
+#91015
+The Base of the Tree~
+You are standing at the base of a large knarled tree.  From the looks of it, it has been here for centuries, it is covered with moss and licen.  Birds nest can be seen in the branches above and sunligh gently filters down to the jungle floor.
+~
+0 8193 3
+D3
+~
+~
+0 0 91014
+D4
+~
+~
+0 0 91016
+S
+#91016
+Up the Ladder~
+You are climbing the ladder that leads up the side of the ancient tree.  The old rope seems to barely support your weight.
+~
+0 512 9
+D4
+~
+~
+0 0 91017
+D5
+~
+~
+0 0 91015
+S
+#91017
+Up the Ladder~
+You are climbing the ladder that leads up the side of the ancient tree.  The old rope seems to barely support your weight.
+ 
+~
+0 512 9
+D4
+~
+~
+0 0 91018
+D5
+~
+~
+0 0 91016
+S
+#91018
+Top of the ladder~
+You are at the top of a rope ladder leading down to the forest floor below.
+~
+0 512 9
+D1
+~
+~
+0 0 91019
+D5
+~
+~
+0 0 91017
+S
+#91019
+A tree branch~
+You are standing on a large bare limb that stretches far off away from the trunk of the tree.  At the other end you see a treehouse perched among the leaves.
+~
+0 0 0
+D1
+~
+~
+0 0 91020
+D3
+~
+~
+0 0 91018
+S
+#91020
+Treehouse balcony~
+You are standing on a platform made of small planks and limbs from the surrounding trees. It runs around the trunk of the tree at an upward angle leading into the higher branches.  All that keeps you from falling off is a make-shift railing made of vines and leaves.
+~
+0 0 3
+D0
+~
+~
+0 0 91021
+D3
+~
+~
+0 0 91019
+S
+#91021
+Inside the tree trunk~
+Within the treetrunk you can see that whoever built it was from an age long ago.  The walls are scribed with runes and a language long forgotten.  Powerful pictures of men with spears and animals of days far gone show the depth and ritual behavior of ancient men are draw into the wood near the door.
+You can see a staircase made into the north wall leading furthur up in the trunk.  Bright lights shine down from the doorway at the top.
+~
+0 5 0
+D2
+~
+~
+0 0 91020
+D4
+~
+~
+0 0 91022
+S
+#91022
+up the staircase~
+Walking up the stairs you come to another small room filled with objects that the last inhabitants left behind.  Along the walls there are torches, long burned out, hanging from vines and hooks of flint.
+~
+0 0 0
+D1
+~
+~
+0 0 91023
+D5
+~
+~
+0 0 91021
+S
+#91023
+The meeting room~
+What you see must have been the native's meeting room.  A small altar sits in the middle of the room surrounded by benches of wood.  Bowels of dried paints lie in the corner, spilt and broken.
+~
+0 0 0
+D3
+~
+~
+0 0 91022
+D4
+~
+~
+0 0 91025
+S
+#91025
+Smoke chimney~
+You are flying up the chimney from the meeting room.  The walls are covered in soot and are completely black.
+~
+0 517 9
+D4
+~
+~
+0 0 91026
+D5
+~
+~
+0 0 91023
+S
+#91026
+Chimney top~
+You are at the top of the chimney which pokes out the top of the tree.  From here you can see the far stretching lands of the world.  In the distance you can see the smoke of Midgaard's house and shops floating loftly into the sky.  It is so peaceful you feel as though you could stay here forever and just watch time pass by below you.
+~
+0 1536 9
+D5
+~
+~
+0 0 91025
+S
+#0
+
+
+
+#SPECIALS
+M 91011 spec_thief
+S
+
+
+
+#RESETS
+M 0 91011 2 91012
+M 0 91013 5 91013
+O 0 91022 0 91022
+O 0 91023 0 91023
+O 0 91024 0 91023
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

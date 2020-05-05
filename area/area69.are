@@ -1,0 +1,46 @@
+#AREADATA
+Name        Drow HQ~
+Builders    Kip~
+VNUMs       40100 40110
+Security    9
+Recall      3001
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#40100
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

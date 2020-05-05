@@ -1,0 +1,247 @@
+#AREADATA
+Name        Devilstorms's Kingdom~
+Builders    None~
+VNUMs       46200 46299
+Security    5
+Recall      3001
+End
+
+
+
+#MOBILES
+#46200
+Satans Souls Guardian~
+The #1S#3a#1T#3a#1N#3'#1s #3S#1o#3u#1L#3s#n Guardian~
+The #1S#3a#1T#3a#1N#3'#1s #3S#1o#3u#1L#3s#n Guardian stands here
+~
+~
+2065 4202538 0 S
+7996 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#46201
+satans souls cleric~
+The #1S#3a#1T#3a#1N#3'#1s #3S#1o#3u#1L#3s#n Cleric~
+The #1S#3a#1T#3a#1N#3'#1s #3S#1o#3u#1L#3s#n Cleric waits here
+~
+~
+2051 136 0 S
+501 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#46200
+#1S#3a#1T#3a#1N#3'#1s #3S#1o#3u#1L#3s#n castle entrance~
+You find yourself standing in a large room.
+You notice that the walls of this room are
+covered with bodies hanging on meat hooks.
+You notice a sign.  It reads:
+****************************************
+**  The Bodies You See Are The Bodies **
+**  Of The Enemies Of #1S#3a#1T#3a#1N#3'#1s #3S#1o#3u#1L#3s#n   **
+****************************************
+There is a note on the floor.
+~
+0 0 0
+E
+note~
+Dear Sirs,
+    I am as brave as the next man, but
+I have been informed that Satan's Souls have
+been instrumental in incurring the wrath
+of the gods.  I do not wish to tangle with
+gods and you'd be advised to see what could be
+done to settle your rift with them yourself.
+All I have heard is that Satan's Souls contains
+the vast majority of the people who pissed off
+the gods.
+     I hope you fair well, I'll be in touch.
+                      Sincerely,
+                      The Satan's Souls (ex)Guardian
+~
+D0
+~
+~
+0 0 46202
+D1
+~
+~
+0 0 46203
+D2
+~
+~
+0 0 3001
+D3
+~
+~
+0 0 46201
+S
+#46201
+Havoc's Breeding Chambers.~
+This is the room in which Havoc brings his women.
+The room has a long table.  It looks as if it 
+could hold about 300 men.  In the corner you
+see a large bed, Lavishly decorated with the finest gold.
+~
+0 0 0
+D1
+~
+~
+0 0 46200
+S
+#46202
+The #1S#3a#1T#3a#1N#3'#1s #3S#1o#3u#1L#3s#n Healing Chamber~
+You are standing in a room decorated with Silver and Gold.
+The rooms greatness seems to impose a feeling of
+great power apon you.
+~
+0 1024 0
+D2
+~
+~
+0 0 46200
+S
+#46203
+Teleportation Chambers~
+You find yourself standing in a swirling vortex.
+You hear a voice, "Where do you wish to travel?"
+A sign pops out of nowhere in front of you.
+You hear the strange voice again, "The sign list the places i can send you."
+~
+0 0 0
+E
+sign~
+The sign seems to be a list of areas.  The following are listed:
+Arachnos               Atlantis                Canyon
+Draconia               Drow                    Galaxy
+Hightower              Mahntor                 Megacity
+Midgaard               Newthalos               Sphinx
+Staff                  Timelord                Weed
+~
+T
+arachnos~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 6200 0
+T
+atlantis~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 8114 0
+T
+canyon~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 9201 0
+T
+draconia~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2201 0
+T
+drow~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 5100 0
+T
+galaxy~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 9301 0
+T
+hightower~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 1312 0
+T
+mahntor~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2362 0
+T
+megacity~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 8001 0
+T
+midgaard~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 3001 0
+T
+newthalos~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 5300 0
+T
+sphinx~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2652 0
+T
+staff~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 25008 0
+T
+timelord~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2549 0
+T
+weed~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 30233 0
+D3
+~
+~
+0 0 46200
+S
+#0
+
+
+
+#SPECIALS
+M 46200 spec_havoc
+M 46201 spec_cast_adept
+S
+
+
+
+#RESETS
+M 0 46201 1 46202
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

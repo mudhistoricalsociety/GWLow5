@@ -1,0 +1,247 @@
+#AREADATA
+Name        Crassus's Kingdom~
+Builders    None~
+VNUMs       46000 46099
+Security    5
+Recall      3001
+End
+
+
+
+#MOBILES
+#46000
+spuddsville guardian~
+Shai'tan the Spuddsville Great Worm~
+Shai'tan the Spuddsville Great Worm stands here
+~
+~
+2065 4202538 0 S
+7997 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#46001
+spuddsville cleric~
+Bal'Zamon the Spuddsville Dragon-Priest~
+Bal'Zamon the Spuddsville Dragon-Priest is standing here
+~
+~
+2051 136 0 S
+1506 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#46000
+Spuddsville Castle Entrance~
+You have entered Spuddsville, home of the Dragons.  The walls stretch
+upwards, giving plenty of room for the dragons to move about, and even the
+slightest sound seems to echo forever.  There is a large carved wooden table
+off to the side, atop it sits a pile of bones, and you think you see a beak.
+Below the table is a large cabinet, filled with Dragon-sized Mugs and
+pitchers of a wide variety of beverages, including Crassus' favorite, Sake. 
+Below is the Teleportation Chamber, above is Crassus' Private Chambers, to
+the east is the Meeting hall, and to the north the chamber of Bal'Zamon the
+Dragon-Priest can be found.  
+~
+0 0 0
+D0
+~
+~
+0 0 46002
+D1
+~
+~
+0 0 46003
+D2
+~
+~
+0 0 3001
+D3
+~
+~
+0 0 46001
+S
+#46001
+Meeting Chambers~
+This room is dominated by a wood table surrounded by some custom made for
+dragon's Spudd-E-Boy Recliners.  This is where the spuddsville residents
+come to disscuss matters of importance, have a party, binge drink after a
+great defeat, or just see what's on Bal'Zamon's Omniscient Oracle.  
+~
+0 0 0
+D1
+~
+~
+0 0 46000
+S
+#46002
+Bal'Zamon's Chambers~
+The room is filled with thousands of books, potions, pots, oracles,
+poweders, robes and riches.  But it maintains a look of order.  This is
+where the Spuddsville residents can come for healing and restoration.  
+~
+0 1024 0
+D0
+~
+~
+3 0 46005
+D2
+~
+~
+0 0 46000
+S
+#46003
+Teleportation Chambers~
+Dragon Orbs are floating about this room, waiting to take you to distant
+lands.  
+~
+0 0 0
+E
+sign~
+The sign seems to be a list of areas.  The following are listed:
+Arachnos               Atlantis                Canyon
+Draconia               Drow                    Galaxy
+Hightower              Mahntor                 Megacity
+Midgaard               Newthalos               Sphinx
+Staff                  Timelord                Weed
+~
+T
+arachnos~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 6200 0
+T
+atlantis~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 8114 0
+T
+canyon~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 9201 0
+T
+draconia~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2201 0
+T
+drow~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 5100 0
+T
+galaxy~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 9301 0
+T
+hightower~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 1312 0
+T
+mahntor~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2362 0
+T
+megacity~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 4601 0
+T
+midgaard~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 3001 0
+T
+newthalos~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 5300 0
+T
+sphinx~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2652 0
+T
+staff~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 25008 0
+T
+timelord~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2549 0
+T
+weed~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 30233 0
+D3
+~
+~
+0 0 46000
+S
+#46005
+Crassus' Private Chambers~
+A large bed is in the center of the room.  Sitting beside it is a Chest
+filled with the histories of the realm, and sitting atop it is a Mug of
+Sake.  The wall opposite the door is dominated by a window overlooking the
+realms.  
+~
+0 0 0
+D2
+~
+~
+3 0 46002
+S
+#0
+
+
+
+#SPECIALS
+M 46000 spec_spuds
+M 46001 spec_cast_adept
+S
+
+
+
+#RESETS
+M 0 46000 1 46000
+M 0 46001 1 46002
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,16 @@
+bet 12 Marlin
+order 12 Marlin
+majesty 12 Marlin
+beckon 12 Marlin
+teach 12 Kip
+wyrm 12 Porthos
+mortal 12 Kip
+clan 12 Kip
+hedit 12 Kip
+bloodwall 12 Marlin
+reshape 12 Marlin
+glamour 12 Marlin
+stealsoul 12 Marlin
+mesmerise 12 Marlin
+command 12 Marlin
+END

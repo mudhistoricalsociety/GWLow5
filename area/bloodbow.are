@@ -1,0 +1,211 @@
+#AREADATA
+Name        New area~
+Builders    Pure~
+VNUMs       90700 90799
+Security    5
+Recall      3001
+End
+
+
+
+#MOBILES
+#90700
+coach head~
+a head coach~
+The head coach stands here. growling because you entered the stadium
+~
+The head coach stands here, twirling his whistle.
+~
+1047 4204584 0 S
+9478 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#90701
+ticket master~
+the ticket master~
+The ticket master stands here waiting for you to buy a ticket.
+~
+~
+19 128 0 S
+4000 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#90702
+security guard~
+a security guard~
+The security guard patrols the halls here
+~
+~
+8211 33556610 0 S
+6978 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#90700
+football~
+a football~
+A normal size football lies here on the ground.~
+~
+5 20564 24577
+1 25 25 7
+0 5000 0
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#90700
+Entranceway to Blood Bowl~
+~
+0 4 0
+D0
+~
+~
+0 0 90701
+S
+#90701
+~
+~
+0 0 0
+D0
+~
+~
+0 0 90702
+D2
+~
+~
+0 0 90700
+S
+#90702
+~
+~
+0 0 0
+D1
+~
+~
+0 0 90703
+D2
+~
+~
+0 0 90701
+D3
+~
+~
+0 0 90705
+S
+#90703
+~
+~
+0 0 0
+D0
+~
+~
+0 0 90704
+D3
+~
+~
+0 0 90704
+S
+#90704
+~
+~
+0 0 0
+D1
+~
+~
+0 0 90703
+D2
+~
+~
+0 0 90703
+S
+#90705
+~
+~
+0 0 0
+D0
+~
+~
+0 0 90706
+D1
+~
+~
+0 0 90702
+S
+#90706
+~
+~
+0 0 0
+D0
+~
+~
+0 0 90707
+D2
+~
+~
+0 0 90705
+S
+#90707
+~
+~
+0 0 0
+D2
+~
+~
+0 0 90706
+S
+#0
+
+
+
+#SPECIALS
+M 90700 spec_thief
+M 90702 spec_guard
+S
+
+
+
+#RESETS
+M 0 90700 1 90700
+M 0 90702 5 90701
+M 0 90702 5 90702
+M 0 90702 1 90702
+M 0 90702 1 90702
+M 0 90702 1 90702
+M 0 90702 1 90702
+M 0 90702 1 90702
+M 0 90702 5 90705
+M 0 90702 1 90705
+M 0 90702 1 90705
+M 0 90702 1 90705
+M 0 90702 1 90705
+M 0 90702 1 90705
+M 0 90702 5 90706
+M 0 90702 5 90707
+M 0 90701 1 90707
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

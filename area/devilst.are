@@ -1,0 +1,279 @@
+#AREADATA
+Name        Devilstorms's Kingdom~
+Builders    None~
+VNUMs       46100 46199
+Security    5
+Recall      3001
+End
+
+
+
+#MOBILES
+#46100
+obsidian guardian~
+The Obsidian Guardian~
+A tall statue of polished obsidian.
+~
+The fifteen foot polished obsidian statue stares down upon you.  It's
+eyes glow with a soft iridescence that threatens to draw you into hypnosis. 
+Those must be some expensive jewels, you think to yourself.  Suddenly, your
+heart skips a beat.  You glance at the large battle axe that probably
+weights several times your own weight, and stare up at it disbelief-did that
+statue just blink?  
+~
+2065 4202538 0 S
+15001 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#46101
+obsidian cleric~
+The Obsidian Priest~
+The Obsidian Priest stands here
+~
+It stands here, chanting in a voice impossibly low for any human to make.
+The long dark robes that enshroud this figure seem to have a life of its
+own, as they slowly glide through the air.  Trying to see below the large
+hood of the creature before you, you see only darkness.  You feel that
+something is not quite right, and then you realize there is no breeze-no
+sound at all, only the relentless chanting.  The only thing that saves you
+from panic is the soothing webs of healing magics that have been layered
+upon you.  
+~
+2051 136 0 S
+1502 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#46100
+guardian helmet~
+a Helmet of the Guardian~
+A Helmet of the guardian lies here~
+~
+9 16 16
+0 0 0 0
+10000 10000 0
+A
+13 10000
+A
+18 1000
+A
+19 1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#46100
+Obsidian Castle Entrance~
+You are standing on the black drawbridge to the Obsidian Castle.  As you
+look more closely to the walls, you notice that they are indeed polished
+multi-ton blocks of pure obsidian.  Tall spires stretch up towards the
+clouds several hundred feet.  Squinting, you noticed the person who was just
+watching you has left the window in one of the spires.  The doorway into the
+Obsidian Castle is a massive stone head of a dragon, its maw gaped open. 
+The fangs of the head are almost as tall as you are, and some even have dark
+red stains.  
+~
+0 0 0
+D0
+~
+~
+0 0 46102
+D1
+~
+~
+0 0 46103
+D2
+~
+~
+0 0 3001
+D3
+~
+~
+0 0 46101
+S
+#46101
+Meeting Chambers~
+A table of red and yellow tiger, faceted with opal, rests in the middle
+of the room.  Enough seats for the entire staff of the kingdom have been
+placed around the table, and seem to have been in constant use.  Maps of all
+sorts lay upon the smooth surface of the table, markers of armies and cities
+in various places.  You turn around to leave and stop suddenly.  Two twelve
+foot statues of knights in shining armor lean against the walls to the right
+and left of the entrance.  Somehow, you feel the sensation that they are
+watching you...  
+~
+0 0 0
+D1
+~
+~
+0 0 46100
+S
+#46102
+Healers Hall~
+Black red and blue velvet pillows cover every inch of the floor here.  At
+the opposite side of the room stands a creature in long flowing black robes,
+behind a blood red altar.  As you enter, it's head raises for a moment, and
+prepares spells of healing for you.  As the figure chants away in one of the
+deepest voices you have ever heard, you begin to feel a little better.  
+~
+0 1024 0
+D2
+~
+~
+0 0 46100
+S
+#46103
+Teleportation Chambers~
+The room is lit only by a single torch on the wall to your right.  The
+darkness is so thick in this room that even your spells cannot pierce it. 
+Before you turn to leave, a whisper echoes off the walls.  "Tell me where
+you wish to go, traveler."  You begin to wonder where he will allow you to
+go, when you feel the hairs on the back of your neck stiffen.  The torch
+flickers for a moment, then a brilliant red flame explodes on the opposite
+wall.  Before your eyes have time to blink-the flame dies down and you are
+able to read the glowing letters.  "This is the sign."  Said the whisper
+again.  
+~
+0 0 0
+E
+sign~
+The sign seems to be a list of areas.  The following are listed:
+Arachnos               Atlantis                Canyon
+Draconia               Drow                    Galaxy
+Hightower              Mahntor                 Megacity
+Midgaard               Newthalos               Sphinx
+Staff                  Timelord                Weed
+~
+T
+arachnos~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 6200 0
+T
+atlantis~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 8114 0
+T
+canyon~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 9201 0
+T
+draconia~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2201 0
+T
+drow~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 5100 0
+T
+galaxy~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 9301 0
+T
+hightower~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 1312 0
+T
+mahntor~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2362 0
+T
+megacity~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 8001 0
+T
+midgaard~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 3001 0
+T
+newthalos~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 5300 0
+T
+sphinx~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2652 0
+T
+staff~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 25008 0
+T
+timelord~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2549 0
+T
+weed~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 30233 0
+D3
+~
+~
+0 0 46100
+S
+#0
+
+
+
+#SPECIALS
+M 46100 spec_obsidian
+M 46101 spec_cast_adept
+S
+
+
+
+#RESETS
+M 0 46100 1 46100
+E 0 46100 0 6
+M 0 46101 1 46102
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

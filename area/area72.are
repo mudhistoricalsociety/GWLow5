@@ -1,0 +1,177 @@
+#AREADATA
+Name        New area~
+Builders    Jester All~
+VNUMs       90521 90530
+Security    1
+Recall      3001
+End
+
+
+
+#MOBILES
+#90521
+A royal assassin~
+a royal guardian assassin~
+A Royal assassin is standing here sharpening here sword for the her next victim.
+~
+You see a dark, hulking figure standing in front of you.  She is brandish a large sword embedded with blood red jewels. Her golden armor sparkles from the candlelight, dented faintly here and there. 
+~
+19 8362 1000 S
+489 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#90522
+healer assassin royal~
+The Assassin Healer~
+A dark figure stands here healing the wounds of the king's warriors.
+~
+A young female healer stands here.  She is talk, elegant and has the longest eyelashes you have ever seen.  Her eyes are deep blue and it seems she can look directly into your soul.
+~
+19 8320 1000 S
+86 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#90521
+altar~
+a bloody altar~
+A bloody altar is here next to the throne.~
+~
+15 24210 0
+100000 0 0 0
+50 10000 0
+E
+vanish~
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#90521
+Entrance to the Kingdom of the Assassins~
+You are standing at the entrance to the kingdom of the Assassins
+To the east you see a great iron gate leading to the inside of the castle.
+~
+0 16385 1
+D0
+~
+~
+3 0 3448
+D1
+~
+Castle Door~
+0 0 90522
+S
+#90522
+The inner courtyard~
+You are standing in the inner courtroom.  It is dark, and dirty, with a lofty smell of decay in the air.  The floor is a covered in black grime and there are trophies of fallen warriors hanging on the walls.
+~
+0 16385 0
+D0
+~
+~
+0 0 90523
+D2
+~
+~
+0 0 90524
+D3
+~
+~
+0 0 90521
+D4
+~
+~
+0 0 90525
+S
+#90523
+The throne room~
+Before you rises a great hall, lit with golden chandeliers.  There are large statues lining the east and west walls. You feel as though the statues of the Assassin's ancestors are watching you.  At the far end of the room sits the throne of the king.  A large padded platform sits next to the throne, a place for the kings slaves to rest their wearing feet before the king.
+~
+0 17417 0
+D2
+~
+~
+0 0 90522
+S
+#90524
+Trophy room~
+Along the south wall there is a fireplace crackling with fire; a small pile of wood nearby to keep it aflame.  Hanging on the walls, there are the heads of those that met and didn't fair well against the assassins.  Blood drips from the severed heads onto the floor, channeled into small drains that line the walls.  There are various weapons strewn about from the dead that hangs here.
+~
+0 16385 0
+D0
+~
+~
+0 0 90522
+S
+#90525
+Total Darkness~
+Total darkness surrounds you, filling you with the evil that has trapped the world to its eternal damnation.  You can see a faint glow here and there of lost souls as they roam the outter reaches of the room. Looking furthur you can see 5 rifts in the darkness, revealing landscapes of far away lands.
+The master of tactics is here, teaching young mortals the ways of combat.
+The TimeLord stands undaughtingly in the middle of his lands.
+You can see a young mage casting spells at a kitten.
+You see the lost world of atlantis, in all its glory.
+An ancient healer standing at the temple of midgaard, healing the wounds of  todays battles.
+~
+0 16393 0
+D0
+~
+~
+0 0 25007
+D1
+~
+~
+0 0 8114
+D2
+~
+~
+0 0 1312
+D3
+~
+~
+0 0 2549
+D4
+~
+~
+0 0 3054
+D5
+~
+exit down~
+0 0 90522
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 90521 1 90521
+M 0 90522 1 90523
+O 0 90521 0 90523
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

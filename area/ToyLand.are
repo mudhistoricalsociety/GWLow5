@@ -1,0 +1,487 @@
+#AREADATA
+Name        ToyLand~
+Builders    Kombat~
+VNUMs       90900 90999
+Security    3
+Recall      0
+End
+
+
+
+#MOBILES
+#90900
+ToyLand Guard~
+ToyLand Guard~
+This ToyLand Guard looks about 13 feet tall and means business!
+~
+The ToyLand Guard is here watching everyone closely.
+~
+65 128 1000 S
+156 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#90901
+The Doll of Clinton~
+The Doll of Clinton~
+Look! It's Mr. Clinton!
+~
+Bill Clinton is here writing a speech about why he shouldn't be impeached.
+~
+3 128 1000 S
+63 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#90902
+A Dinosaur~
+A Dinosaur~
+This Dinosaur here looks kinda like a T-Rex
+~
+A Dinosaur Stands here, looking for prey.
+~
+3 0 1000 S
+152 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#90903
+Golden Retriever~
+Golden Retriever~
+A Golden Dog is here, waiting to be groomed.
+~
+This Golden Retriever is sitting around trying to do something.
+~
+3 0 1000 S
+87 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#90904
+A CD~
+A CD Player~
+This CD Player is here with a CD loaded.
+~
+This CD Player is here loaded with HANSON CD'S!!! KILL IT!! KILL IT FOR THE LOVE OF GOD!!!!
+~
+3 128 1000 S
+134 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#90905
+Jansport Backpack~
+Jansport Backpack~
+This Jansport Backpack looks kinda cool and Dangerous.
+~
+The Jansport Backpack is here, waiting to go to school.
+~
+3 128 1000 S
+141 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#90906
+The Doll of Gore~
+The Doll of Gore~
+Al Gore is here, trying to get the Senator fired.
+~
+Al Gore is here, seducting the Senator.
+~
+3 128 1000 S
+134 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#90907
+Laser~
+Laser~
+This Laser is here with it's red sniper.
+~
+The Laser is here, shining it's bright lights.
+~
+3 128 1000 S
+172 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#90908
+Barney~
+Barney~
+Barney is here singing I love you, you love me.
+~
+The Kids are here, singing with Barney.
+~
+3 128 1000 S
+82 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#90909
+A Book~
+A Book~
+A Book is here, waiting to be read.
+~
+A Book is here waiting to get outta the shelf.
+~
+3 128 1000 S
+159 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#90910
+A Pokemon~
+A Pokemon~
+This Pokemon looks like a Charmander but doesn't for some reason.
+~
+This Pokemon stands here, watching everyone's moves.
+~
+3 128 1000 S
+155 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#90911
+Mr.  Misc Man~
+Mr. Misc Man~
+Mr. Misc Man stands here, doing everything Misc.
+~
+Mr. Misc Man is here, looking at little kids.
+~
+3 128 1000 S
+92 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#90912
+A Robot~
+A Robot~
+A Robot is here looking eerie as ever.
+~
+This robot is finished and ready to fight!
+~
+3 128 1000 S
+173 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#90913
+A Sword~
+A Sword~
+This Sword is laying on the ground waiting to slash it's opponent.
+~
+This Sword is here,waiting to kill someone.
+~
+3 128 1000 S
+150 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#90914
+bad dude~
+(no short description)~
+(no long description)
+~
+~
+1 0 0 S
+12 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#90900
+a Rubber Ducky~
+a Rubber Ducky~
+Lookie Here! A little rubber Ducky!~
+~
+5 1 8193
+0 0 0 0
+5 0 0
+A
+13 50
+A
+19 10
+A
+18 10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#90900
+Entrance of ToyLand~
+Welcome to ToyLand where everyone dies.
+~
+0 4 1
+D0
+~
+~
+0 0 90901
+D1
+~
+~
+0 0 2172
+S
+#90901
+ToyLand - Dog Section~
+You are standing in the Dog Section of toyland where all TOY dogs roam and they look real.
+~
+0 4 1
+D0
+~
+~
+0 0 90902
+D2
+~
+~
+0 0 90900
+S
+#90902
+ToyLand - Robot Section~
+You are standing in the Robot section. This is where all the robots are created, some are ready and some are not.
+~
+0 4 1
+D0
+~
+~
+0 0 90903
+D2
+~
+~
+0 0 90901
+S
+#90903
+ToyLand - Dinosaur Section~
+Wow! Look at all those fake dinosaurs that roar, just try to kill em and see if there for real.
+~
+0 4 1
+D0
+~
+~
+0 0 90904
+D2
+~
+~
+0 0 90902
+S
+#90904
+ToyLand - Beanie Baby Section~
+This is the Beanie Baby section where all those little cheap things are sold for 20 bucks. This place looks abandoned tho.
+~
+0 4 1
+D0
+~
+~
+0 0 90905
+D2
+~
+~
+0 0 90903
+S
+#90905
+ToyLand - Weapon Section~
+Dude, talking about weapons these things are like 
+scary.
+~
+0 4 1
+D1
+~
+~
+0 0 90906
+D2
+~
+~
+0 0 90904
+S
+#90906
+ToyLand - Clothes Section~
+Hey Cool, a clothes section I could use a few new clothes.
+~
+0 32772 1
+D0
+~
+~
+0 0 90907
+D3
+~
+~
+0 0 90905
+S
+#90907
+ToyLand - Stuffed President's Section~
+Cool, Look there a Al Gore Doll and a Bill Clinton Doll.
+~
+0 4 1
+D1
+~
+~
+0 0 90908
+D2
+~
+~
+0 0 90906
+S
+#90908
+ToyLand -  Guard's Section~
+This is where all the ToyLand Guards train and test their skills.
+~
+0 4 1
+D0
+~
+~
+0 0 90909
+D3
+~
+~
+0 0 90907
+S
+#90909
+ToyLand - Music Section~
+Look there, a classical cd and everything you want from Metallica to Marilyn Manson.
+~
+0 4 1
+D2
+~
+~
+0 0 90908
+D4
+~
+~
+0 0 90910
+S
+#90910
+ToyLand - Book Section~
+All those books from How to kill to Well, I don't know for sure.
+~
+0 4 1
+D0
+~
+~
+0 0 90911
+D5
+~
+~
+0 0 90909
+S
+#90911
+ToyLand - Pokemon Section~
+I bet your wondering what the HELL is a pokemon? Well, I'll tell you a pokemon is short for Pocket Monster which invaded Japan!
+~
+0 4 1
+D0
+~
+~
+0 0 90912
+D2
+~
+~
+0 0 90910
+S
+#90912
+ToyLand - Gadget Section~
+Look at all these ultra-gadgets with those X-Ray glasses and those nostril groomers.
+~
+0 4 1
+D1
+~
+~
+0 0 90913
+D2
+~
+~
+0 0 90911
+S
+#90913
+ToyLand - Misc. Section~
+Wow! Look there, Mr. Misc Man the guy who made a commerical on tv!
+~
+0 4 1
+D0
+~
+~
+0 0 90914
+D3
+~
+~
+0 0 90912
+S
+#90914
+ToyLand - Reject Section~
+This is where they dump all those like screwed-up toys. Look! A Barney doll, I bet that was there for what 200 years?
+~
+0 4 1
+D0
+~
+~
+0 0 90915
+D2
+~
+~
+0 0 90913
+S
+#90915
+ToyLand - Refund Section~
+Want a refund? I don't think so those receipts self-destruct in 10 seconds when you get it.
+~
+0 4 1
+D2
+~
+~
+0 0 90914
+S
+#0
+
+
+
+#SPECIALS
+M 90900 spec_breath_any
+M 90907 spec_breath_fire
+M 90910 spec_breath_fire
+S
+
+
+
+#RESETS
+M 0 90900 1 90900
+E 0 90900 0 16
+M 0 90900 1 90900
+M 0 90900 1 90900
+E 0 90900 0 16
+M 0 3 1 90900
+M 0 90903 2 90901
+M 0 90900 1 90901
+M 0 90912 2 90902
+E 0 90900 0 16
+M 0 90900 1 90902
+M 0 90902 1 90903
+E 0 90900 0 16
+M 0 90900 1 90903
+M 0 90900 2 90904
+M 0 90908 1 90904
+M 0 90913 5 90905
+M 0 90905 2 90906
+M 0 90900 1 90906
+M 0 90901 1 90907
+M 0 90906 1 90907
+M 0 90906 1 90907
+M 0 90901 1 90907
+M 0 90900 12 90907
+M 0 90900 1 90907
+M 0 90900 5 90908
+M 0 90904 5 90909
+M 0 90909 5 90910
+M 0 90910 2 90911
+M 0 90907 2 90912
+M 0 90911 1 90913
+M 0 90900 1 90913
+M 0 90908 1 90914
+M 0 90900 1 90914
+M 0 90900 1 90914
+M 0 90900 5 90915
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

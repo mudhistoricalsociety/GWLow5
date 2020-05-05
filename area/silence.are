@@ -1,0 +1,221 @@
+#AREADATA
+Name        Silence's Kingdom~
+Builders    None~
+VNUMs       46500 46599
+Security    5
+Recall      3001
+End
+
+
+
+#MOBILES
+#46500
+guardian apocalypse~
+The #1A#3P#0O#1C#3A#0L#1Y#3P#0S#1E#n Guardian~
+The #1A#3P#0O#1C#3A#0L#1Y#3P#0S#1E#n Guardian stands here looking imposing
+~
+~
+2051 4202538 0 S
+8008 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#46501
+apocalypse priest~
+The #1A#3P#0O#1C#3A#0L#1Y#3P#0S#1E#n Priest~
+The #1A#3P#0O#1C#3A#0L#1Y#3P#0S#1E#n Priest stands here
+~
+~
+2051 136 0 S
+1500 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#46500
+#1A#3P#0O#1C#3A#0L#1Y#3P#0S#1E#n Castle Entrance~
+You have entered the castle of Apocalypse.
+Umm... Silence, ya bum, e-mail me the
+room desc to godwars@softcon.com!
+~
+0 0 0
+D0
+~
+~
+0 0 46502
+D1
+~
+~
+0 0 46503
+D2
+~
+~
+0 0 3001
+D3
+~
+~
+0 0 46501
+S
+#46501
+Meeting Chambers~
+Umm... Silence, ya bum, e-mail me the
+room desc to godwars@softcon.com!
+~
+0 0 0
+D1
+~
+~
+0 0 46500
+S
+#46502
+Healers Hall~
+Umm... Silence, ya bum, e-mail me the
+room desc to godwars@softcon.com!
+~
+0 1024 0
+D2
+~
+~
+0 0 46500
+S
+#46503
+Teleportation Chambers~
+Umm... Silence, ya bum, e-mail me the
+room desc to godwars@softcon.com!
+~
+0 0 0
+E
+sign~
+The sign seems to be a list of areas.  The following are listed:
+Arachnos               Atlantis                Canyon
+Draconia               Drow                    Galaxy
+Hightower              Mahntor                 Megacity
+Midgaard               Newthalos               Sphinx
+Staff                  Timelord                Weed
+~
+T
+arachnos~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 6200 0
+T
+atlantis~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 8114 0
+T
+canyon~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 9201 0
+T
+draconia~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2201 0
+T
+drow~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 5100 0
+T
+galaxy~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 9301 0
+T
+hightower~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 1312 0
+T
+mahntor~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2362 0
+T
+megacity~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 8001 0
+T
+midgaard~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 3001 0
+T
+newthalos~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 5300 0
+T
+sphinx~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2652 0
+T
+staff~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 25008 0
+T
+timelord~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2549 0
+T
+weed~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 30233 0
+D3
+~
+~
+0 0 46500
+S
+#0
+
+
+
+#SPECIALS
+M 46500 spec_silence
+M 46501 spec_cast_adept
+S
+
+
+
+#RESETS
+M 0 46500 1 46500
+M 0 46501 1 46502
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

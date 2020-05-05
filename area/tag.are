@@ -1,0 +1,611 @@
+#AREADATA
+Name        Tag Arena~
+Builders    None~
+VNUMs       30500 30526
+Security    3
+Recall      0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#30500
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30520
+D1
+~
+~
+1 -1 30501
+D2
+~
+~
+1 -1 30505
+D3
+~
+~
+1 -1 30504
+S
+#30501
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30521
+D1
+~
+~
+1 -1 30502
+D2
+~
+~
+1 -1 30506
+D3
+~
+~
+1 -1 30500
+S
+#30502
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30522
+D1
+~
+~
+1 -1 30503
+D2
+~
+~
+1 -1 30507
+D3
+~
+~
+1 -1 30501
+S
+#30503
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30523
+D1
+~
+~
+1 -1 30504
+D2
+~
+~
+1 -1 30508
+D3
+~
+~
+1 -1 30502
+S
+#30504
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30524
+D1
+~
+~
+1 -1 30500
+D2
+~
+~
+1 -1 30509
+D3
+~
+~
+1 -1 30503
+S
+#30505
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30500
+D1
+~
+~
+1 -1 30506
+D2
+~
+~
+1 -1 30510
+D3
+~
+~
+1 -1 30509
+S
+#30506
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30501
+D1
+~
+~
+1 -1 30507
+D2
+~
+~
+1 -1 30511
+D3
+~
+~
+1 -1 30505
+S
+#30507
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30502
+D1
+~
+~
+1 -1 30508
+D2
+~
+~
+1 -1 30512
+D3
+~
+~
+1 -1 30506
+S
+#30508
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30503
+D1
+~
+~
+1 -1 30509
+D2
+~
+~
+1 -1 30513
+D3
+~
+~
+1 -1 30507
+S
+#30509
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30504
+D1
+~
+~
+1 -1 30505
+D2
+~
+~
+1 -1 30514
+D3
+~
+~
+1 -1 30508
+S
+#30510
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30505
+D1
+~
+~
+1 -1 30511
+D2
+~
+~
+1 -1 30515
+D3
+~
+~
+1 -1 30519
+S
+#30511
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30506
+D1
+~
+~
+1 -1 30512
+D2
+~
+~
+1 -1 30516
+D3
+~
+~
+1 -1 30510
+S
+#30512
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30507
+D1
+~
+~
+1 -1 30513
+D2
+~
+~
+1 -1 30517
+D3
+~
+~
+1 -1 30511
+S
+#30513
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30508
+D1
+~
+~
+1 -1 30514
+D2
+~
+~
+1 -1 30518
+D3
+~
+~
+1 -1 30512
+S
+#30514
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30509
+D1
+~
+~
+1 -1 30510
+D2
+~
+~
+1 -1 30519
+D3
+~
+~
+1 -1 30513
+S
+#30515
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30510
+D1
+~
+~
+1 -1 30516
+D2
+~
+~
+1 -1 30520
+D3
+~
+~
+1 -1 30519
+S
+#30516
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30511
+D1
+~
+~
+1 -1 30517
+D2
+~
+~
+1 -1 30521
+D3
+~
+~
+1 -1 30515
+S
+#30517
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30512
+D1
+~
+~
+1 -1 30518
+D2
+~
+~
+1 -1 30522
+D3
+~
+~
+1 -1 30516
+S
+#30518
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30513
+D1
+~
+~
+1 -1 30519
+D2
+~
+~
+1 -1 30523
+D3
+~
+~
+1 -1 30517
+S
+#30519
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30514
+D1
+~
+~
+1 -1 30515
+D2
+~
+~
+1 -1 30524
+D3
+~
+~
+1 -1 30518
+S
+#30520
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30515
+D1
+~
+~
+1 -1 30521
+D2
+~
+~
+1 -1 30500
+D3
+~
+~
+1 -1 30524
+S
+#30521
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30516
+D1
+~
+~
+1 -1 30522
+D2
+~
+~
+1 -1 30501
+D3
+~
+~
+1 -1 30520
+S
+#30522
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30517
+D1
+~
+~
+1 -1 30523
+D2
+~
+~
+1 -1 30502
+D3
+~
+~
+1 -1 30521
+S
+#30523
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30518
+D1
+~
+~
+1 -1 30524
+D2
+~
+~
+1 -1 30503
+D3
+~
+~
+1 -1 30522
+S
+#30524
+Tag Arena~
+You are in the tag arena
+~
+0 9220 0
+D0
+~
+~
+1 -1 30519
+D1
+~
+~
+1 -1 30520
+D2
+~
+~
+1 -1 30504
+D3
+~
+~
+1 -1 30523
+S
+#30525
+Blue Start~
+You are in the blue starting area.
+~
+0 17408 1
+D2
+~
+~
+1 -1 30511
+S
+#30526
+Red start~
+You are in the Red starting Area
+~
+0 17408 1
+D0
+~
+~
+1 -1 30517
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

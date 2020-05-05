@@ -1,0 +1,263 @@
+#AREADATA
+Name        Katrina's area~
+Builders    None~
+VNUMs       32000 32100
+Security    1
+Recall      3000
+End
+
+
+
+#MOBILES
+#32000
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0 S
+6 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#32000
+gloves purple~
+#5a #Tp#5a#Ti#5r #To#5f #Tp#5u#Tr#5p#Tl#5e #Tl#5e#Ta#5t#Th#5e#Tr #5g#Tl#5o#Tv#5e#Ts#n~
+#TA pair of small leather gloves sits here.#n~
+~
+9 256 129
+10 0 0 1
+1 10000000 0
+A
+17 -15
+A
+19 70
+A
+18 70
+A
+1 5
+A
+2 5
+A
+5 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#32001
+short black miniskirt skirt~
+#0a short black mini-skirt#n~
+A tiny piece of black cloth lies here.~
+~
+9 256 2049
+15 0 0 2
+1 0 0
+A
+17 -15
+A
+5 5
+A
+2 5
+A
+1 5
+A
+18 50
+A
+19 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#32002
+black high heels~
+#0a pair of black stiletto heels#n~
+A pair of tall black heels sits here.~
+~
+9 256 65
+10 0 0 3
+1 100000 0
+A
+3 5
+A
+4 5
+A
+17 -15
+A
+18 50
+A
+19 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#32003
+black fishnet stockings~
+#0a pair of black fishnet stockings#n~
+Some black mesh lies here in a pile~
+~
+9 256 33
+10 0 0 5
+1 0 0
+A
+4 5
+A
+3 5
+A
+17 -15
+A
+18 50
+A
+19 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#32004
+black leather dog collar~
+#Ra pretty blue collar with #0X#Tianth's#R name on it#n~
+A pretty blue collar sits here~
+~
+9 256 5
+10 0 0 6
+1 0 0
+A
+19 30
+A
+18 30
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#32005
+silver choker~
+#7a light silver choker#n~
+A coil of chain rests on the floor.~
+~
+9 256 5
+10 0 0 7
+1 0 0
+A
+19 10
+A
+18 10
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#32006
+purple velvet bra~
+#5a pu#Trp#5le cr#Tush#5ed ve#Tlv#5et b#Tr#5a#n~
+A delicately folded bra rests on the ground.~
+~
+9 256 9
+10 0 0 8
+1 0 0
+A
+17 -15
+A
+19 20
+A
+18 20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#32007
+black top hat~
+#0a black top hat with a w#nh#7i#nt#0e band#n~
+A smooth, black hat sits on the floor~
+~
+9 256 17
+10 0 0 8
+1 0 0
+A
+19 20
+A
+18 20
+A
+17 -15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#32008
+orchid~
+#7a w#nh#0i#nt#7e o#nr#0ch#ni#7d w#nit#7h b#nl#0a#nc#7k s#nt#0rea#nk#7s#n~
+(no description)~
+~
+9 0 257
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,247 @@
+#AREADATA
+Name        New area~
+Builders    None~
+VNUMs       31000 31019
+Security    1
+Recall      3001
+End
+
+
+
+#MOBILES
+#31000
+stalkers guardian~
+the #1s#2t#3a#4l#5k#6e#7r#0s#n guardian~
+The #1S#2t#3a#4l#5k#6e#7r#0s#n Guardian is here waiting to thrash intruders
+~
+~
+19 5874366 0 S
+487 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#31001
+stalkers healer~
+the #1S#2t#3a#4l#5k#6e#7r#0s#n Healer~
+A healer is here watching over the friends of the #1S#2t#3a#4l#5k#6e#7r#8s#n
+~
+~
+19 272629800 0 S
+126 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#31000
+altar stalkers~
+the #1S#2t#3a#4l#5k#6e#7r#0s#n Altar~
+The #1S#2t#3a#4l#5k#6e#7r#0s#n Altar is radiatating an aura of magik~
+~
+15 3584 0
+5000000 3 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31001
+stalkers rod seven parts~
+the #1S#2t#3a#4l#5k#6e#7r#0s#n rod of seven parts~
+The #1S#2t#3a#4l#5k#6e#7r#0s#n rod of seven parts lies here fully assembled~
+~
+50 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#31000
+Too dark too tell~
+~
+0 5259277 0
+D4
+~
+~
+3 0 1305
+D5
+~
+~
+0 0 31001
+S
+#31001
+Guard Post~
+~
+0 5259272 0
+D2
+~
+~
+0 0 31002
+D4
+~
+~
+0 0 31000
+S
+#31002
+Altar of #1S#2t#3a#4l#5k#6e#7r#0s#n~
+~
+0 5260297 0
+D0
+~
+~
+0 0 31001
+D3
+~
+~
+0 0 31004
+D5
+~
+~
+0 0 31003
+S
+#31003
+#1Throne Room of the Magik#n~
+#nIn front of you is an enormous Skull throne.  Each skull on the throne
+seems to be marked in language you cannot understand.  To one side of you
+seems to be a #2picture#n of a battle going on.  The King Mystyyque is
+holding a book and you actually can see his lips moving in a chant.  To your
+other side is a little #1hole#n that you think would be wise to not stick
+your hand into.  A feeling of dread washes over you making you chilled to
+the bone.  
+ 
+In front of you is a large skull throne.
+~
+0 5259272 0
+E
+picture~
+As you stare at the picture you see the pictre is actualling moving and
+is not a trick of the lights.  In the forground is Mystyque and his Princes
+standing in a line chanting down waves, farts, thunderstorns, fireballs, and
+other things you cannot describe decimating whole mobs of minions of other
+clans.  In the background is a monk, some demons, and some vampires all
+charging into the battle capping anything in their way.  After about five
+minutes the picture goes to a scene where all of stalkers are hiding and
+stalking a couple people waiting for the moment to strike.  Behind you you
+here a very quiet creak.......  
+~
+E
+hole~
+Inside of the hole burns a constant inferno of flames
+~
+D4
+~
+~
+0 0 31002
+S
+#31004
+Portals to Unknown Realms~
+~
+0 5259272 0
+E
+sign~
+The sign seems to be a list of areas.  The following are listed:
+Drow, Midgaard, Doom, Atlantis, staff member, sphinx, timelord, htos, astral.
+~
+T
+drow~
+$n is engulfed in flames and vanishes
+
+^Minto the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 5134 0
+T
+midgaard~
+$n is engulfed in flames and vanishes
+
+^Minto the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 3001 0
+T
+doom~
+$n is engulfed in flames and vanishes
+
+^Minto the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 11053 0
+T
+atlantis~
+$n is engulfed in flames and vanishes into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 8130 0
+T
+staff~
+$n is engulfed in flames and vanishes into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 25008 0
+T
+astral~
+$n is engulfed in flames and vanishes into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 7700 0
+T
+htos~
+$n is engulfed in flames and vanishes into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 1477 0
+T
+timelord~
+$n is engulfed in flames and vanishes into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 2549 0
+T
+sphinx~
+$n is engulfed in flames and vanishes into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 2652 0
+D1
+~
+~
+0 0 31002
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 31000 1 31001
+M 0 31001 1 31002
+O 0 31000 0 31002
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,209 @@
+#AREADATA
+Name        Katrina - Drow HQ~
+Builders    None~
+VNUMs       9000 9005
+Security    3
+Recall      0
+End
+
+
+
+#MOBILES
+#9000
+drow guard yochlol~
+a yochlol~
+A yochlol brandishes her dagger and chants softly
+~
+She is clad only in a dark black robe, and the cowl hangs over her face,
+shadowing it from any sight.  She has a thin bladed velve, with a spider as
+the pommel, and it looks extremely sharp.  
+~
+19 4825256 0 S
+6681 2 2 0d0+0 2d4+30
+12000 0
+0 0 2
+#9001
+succubus healer drow~
+a succubus~
+A beautiful young drow stands here, naked.
+~
+This drow gave her blood to the demons, and became a succubus with
+healing powers in exchange.  She is forbidden to wear clothes, so she stands
+here naked, assisting the followers of Lloth in any way that she can.  
+~
+19 4202664 0 S
+4007 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#9000
+#TA dark passage #0[#1PK#0]#n~
+#0You stand in a dark passageway, the walls crafted out of solid onyx.
+#0It has only one or two spheres floating in it, giving light, as it
+#0apparently serves no other purpose than to connect the altar to the main
+#0room.  #n 
+~
+0 5259264 0
+D1
+~
+~
+0 -1 9003
+D2
+~
+~
+0 -1 9001
+S
+#9001
+#TA small intersection #0[#1PK#0]#n~
+#0The onyx tunnel intersects here, passages leading off to the east,
+#0north, as well as the west.  From the west comes a strange humming noise, as
+#0if some kind of old machine or magical device was working there.  There
+#0appears to be a bend to the north, and you can't discern anything to your
+#0east.  #n 
+~
+0 5259264 0
+D0
+~
+~
+0 -1 9000
+D1
+~
+~
+0 -1 9004
+D3
+~
+~
+0 -1 9002
+S
+#9002
+#TThe drow portal room #0[#1PK#0]#n~
+#0This room is dominated by a large, swirling purple portal.  It gives
+#0off absolutely no light, and you can hear it humming softly as it spirals. 
+#0A few blood-red runes glow on the walls, and if you looked at them, they'd
+#0probably divine the purpose of this place.  #n 
+~
+0 5259264 0
+E
+runes~
+The runes seem to say that if you speak certain power words, the portal
+will take you to your desired location.  The words appear to be: #n
+Sphinx, Timelord, Member of Staff, Midgaard, and Galaxy.  
+~
+T
+galaxy~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 9302 0
+T
+timelord~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 2549 0
+T
+midgaard~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 3001 0
+T
+staff~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 25008 0
+T
+sphinx~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 2652 0
+D1
+~
+~
+0 -1 9001
+S
+#9003
+#TLloth's Altar #7[#4Safe#7]#n~
+#0You st#0and in another dark, onyx room.  The walls reflect little light,
+#0and almost seem to absorb it.  A dark obsidian altar rests in the centre of
+#0the room, surrounded by small floating green orbs that give off a dim glow,
+#0illuminating the coppery bloodstains on the altar and floor nearby.  A
+#0dagger sits on the altar, the pommel of it a spider, and it too, is stained,
+#0apparently used in ritual sacrifice to Lloth, the spider queen.  
+#n
+~
+0 5243904 0
+D0
+~
+~
+0 0 26000
+D3
+~
+~
+0 -1 9000
+S
+#9004
+#TA dead end #0[#1PK#0]#n~
+#0The tunnel curves here, a spherical indention #0where it dead-ends.  The
+#0black onyx of the walls stops abruptly, leaving no reason as to why the drow
+#0suddenly halted their work in this area.  The only way out is back from
+#0where you came.  #n 
+~
+0 5259264 0
+D3
+~
+~
+0 -1 9001
+D5
+~
+~
+3 0 9005
+S
+#9005
+#TA small, private room #0[#1PK#0]#n~
+#0This room is made especially for the Matron Mother, and she is allowed
+#0to furnish it in any way she likes.  Currently, a bed just big enough for
+#0two people rests in the corner, a pair of handcuffs dangling from each of
+#0the four posts.  Little else is in the room, and you don't notice much
+#0besides a few white stains on the sheets.  #n 
+~
+0 512 0
+D4
+~
+~
+3 0 9004
+S
+#0
+
+
+
+#SPECIALS
+M 9000 spec_guard_drow
+M 9001 spec_cast_adept
+S
+
+
+
+#RESETS
+M 0 9000 1 9003
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

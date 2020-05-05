@@ -1,0 +1,48 @@
+#AREADATA
+Name        Spuddsville~
+Builders    None~
+VNUMs       46000 46099
+Security    4
+Recall      3001
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#46000
+Spuddsville Castle Entrance~
+Ok Crassus, I need a desc for this room, the meeting hall and the
+healer's hall.  Email them to godwars@softcon.  Com.  
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

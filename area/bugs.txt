@@ -1,0 +1,1086 @@
+[ 9254] Moloch: leech dont work, blink crashes...
+[ 3054] Anarta: when i change into a wolf and die or change into human then wolf again my hr and dr go up alot
+[ 3054] Antara: when mages are morted they lose their spells and have to learn again
+[30003] Moloch: sometimes when morted and ya heal....it still says your incapacitated when ya try to move...but yer at + hp
+[ 3054] Nefrus: characters don't heal when sleeping
+[ 3207] Crovax: slices through armor is some good.. unfortunately it's also bugged
+[ 6000] Firestar: autostance won't work thankyou:-)
+[ 9245] Firestar: autostance is really screwed up, i am autostancing monkey and i don't even have it
+[ 5122] Crovax: Vampires can put there hitroll/damroll and ac at anything they want
+[ 3710] Artos: every time I kill a mob I go all the way from Satanic to Angelic...how is this possible?
+[  954] Saradon: when my heavenly aura sears a mob to death, it ends the fight and freezes the mob in middle of dieing...
+[90706] Saradon: after i use my cloak of life, i gotta restart for it to be working again
+[ 2551] Artemis: commanding mobs to give you artis makes the mud crash
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Char_to_room: Venrik -> NULL room!  Putting char in limbo (2)
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 12 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 14 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 14 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 15 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Item_type_name: unknown type 47.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Get_mob_index: bad vnum 50005.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Item_type_name: unknown type 51.
+[*****] BUG: Reverse Exit doesnt lead anywhere (create wall).
+[*****] BUG: Reverse Exit doesnt lead anywhere (create wall).
+[*****] BUG: Reverse Exit doesnt lead anywhere (create wall).
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Fread_char: no match. WORD: Deity
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 30005 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Load_mobiles: vnum 46000 duplicated.
+[*****] BUG: Load_mobiles: vnum 46001 duplicated.
+[*****] BUG: Load_mobiles: vnum 46010 duplicated.
+[*****] BUG: Load_mobiles: vnum 46510 duplicated.
+[*****] BUG: Load_mobiles: vnum 80010 duplicated.
+[*****] BUG: Load_rooms: vnum 80000 duplicated.
+[*****] BUG: Load_rooms: vnum 85000 duplicated.
+[*****] BUG: Load_rooms: vnum 85000 duplicated.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 30005 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 30005 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[30000] Frodan: the upkeep scren for demons doesnt seem to work.. for inparted items ie truesight or researched items ie wings and clasws etc gained from researching attack
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Load_specials: 'M': vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Get_room_index: bad vnum 31000.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Extract_char: char not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 30005 not found.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 14 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 30005 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 30005 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 30004 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 30004 not found.
+[*****] BUG: Load_objects: # not found.
+[*****] BUG: Load_objects: vnum 29748 duplicated.
+[*****] BUG: Load_objects: vnum 29748 duplicated.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 15 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 15 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[ 1335] VeeDogg: reshape only works while the item is in inventoery. when it is dropped it has the origanal name, but responds to the changed name.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[30007] Silence: it seems that tail isn't working
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Set_pc_name: NPC.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Item_type_name: unknown type 51.
+[*****] BUG: Item_type_name: unknown type 51.
+[*****] BUG: Item_type_name: unknown type 51.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Affect_location_name: unknown location -99.
+[*****] BUG: Affect_location_name: unknown location -99.
+[*****] BUG: Affect_location_name: unknown location -99.
+[*****] BUG: Affect_location_name: unknown location -99.
+[*****] BUG: Affect_location_name: unknown location -99.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Extract_obj: obj 14 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 12 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: missing arg2 for code 78.
+[ 9256] Goliath: <@@@>  retracts his fangs.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Extract_obj: obj 30005 not found.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 70000 chobj invalid.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Extract_char: char not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 14 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Extract_obj: obj 10 not found.
+[ 3054] Goliath: when beast goes up/ down, it changes stance
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 15 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[ 2557] Reila: Only two of  four arms count toward fighting and weapon skills
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 14 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 30001 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 12 not found.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 12 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Buffer overflow. Closing.
+
+[30004] Mortok: well i dont know if this is a real bug but i have been working on leopard for an hour and have gained a point just letting you all know
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 12 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Char_to_room: Bryantos -> NULL room!  Putting char in limbo (2)
+[*****] BUG: Char_to_room: Fireflash -> NULL room!  Putting char in limbo (2)
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Item_type_name: unknown type 48.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Char_to_room: Montelbo -> NULL room!  Putting char in limbo (2)
+[*****] BUG: Char_to_room: Hrulthar -> NULL room!  Putting char in limbo (2)
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Char_to_room: Jordi -> NULL room!  Putting char in limbo (2)
+[*****] BUG: Char_to_room: Fireflash -> NULL room!  Putting char in limbo (2)
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Load_specials: 'M': vnum 10002.
+[*****] BUG: Load_specials: 'M': vnum 10002.
+[*****] BUG: Get_mob_index: bad vnum 10002.
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen

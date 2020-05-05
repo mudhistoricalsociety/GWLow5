@@ -1,0 +1,173 @@
+#AREADATA
+Name        New area~
+Builders    Thalon~
+VNUMs       61000 61010
+Security    1
+Recall      3001
+End
+
+
+
+#MOBILES
+#61000
+The Ancient~
+The Ancient~
+The Ancient's piercing eyes follow your every move
+~
+In his youth he was the greatest of the Brotherhoods assassins.  And even
+in his old age he is still the only known member to have earned the
+Brotherhoods highest title, that of the Hand, in the last hundred years. 
+Yet his current looks can be deceiving.  Many a youth has attacked what they
+believed to be a frail old man in the hopes of gaining his title.  And now
+many new notches adorn the hilt of Ancients dagger.  
+~
+19 5874366 0 S
+515 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#61001
+Ciang~
+Ciang~
+Ciang sits here waiting to help heal your wounds
+~
+A wrinkly old elfmaiden stands before you.  Her face is a mass of pale
+white wrinkles along with her bald scalp.  Her dark eyes are set deep in
+their sockets and you get the sensation of looking at a living skeleton. 
+But the raw power in those eyes stop chill you to the bone.  For, until the
+return of Baltazar, Ciang was the undisputed ruler of the Brotherhood.  You
+hope your wounds heal quickly.  
+~
+19 272629800 0 S
+97 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#61000
+The Hall of Warriors~
+You enter what you believe to be the center of the keep.  This room was
+built to honor the greatest of the Brotherhoods warriors, as the many
+portraits show.  A portrait of the Ancient as a youth catches your eye. 
+Another, a portrait of the mighty #0ShadowWolf#n Baltazar, stands out from
+the rest.  More portraits seem to leap out at you.  One of the werewolf
+#4Chieftain#n Maetar, one of the #7Divine#n monk Saradon, another of the
+#1Bloodthirsty#n Vampire Mathew, and one of the #6Lightning#n fast werewolf
+Davion.  
+~
+0 5242890 0
+D0
+~
+~
+0 0 61002
+D2
+~
+~
+0 0 61003
+D3
+~
+~
+0 0 61001
+D5
+~
+~
+0 0 61004
+S
+#61001
+The Hand Stone~
+You stand before a large doorway that leads into an enormous stone keep. 
+Twelve open hands arrayed in a circle are carved onto the massive wooden
+door.  As you notice the carvings you also see that the stone beneath your
+feet has the same hand painted upon it in a dark red.  As you step off
+the stone to get a better look at the strange paint you realize too late
+that the stone you were standing upon is the only safe place in the area 
+ 
+~
+0 5242894 0
+E
+door~
+A large iron door blocks your path.  You see small arrow slits above that
+door and you hope they are not pointing at your heart.  
+~
+D1
+~
+~
+0 0 61000
+S
+#61002
+The Altar of the Hand~
+His room is the cleanest room you have ever seen.  Everything is ordered
+and sparkling clean.  Unlike some realms, the Brotherhood takes no chances
+when treating one of its one.  And like most of the lavish rooms in the
+keep, they also spare no expanse.  Among the finer objects in the room is a
+tapestry depicting a raging battle that hangs above a huge golden statue
+made to resemble a hand with its palm up and fingers together
+~
+0 4211722 0
+E
+ciang~
+~
+E
+61001~
+~
+D2
+~
+~
+0 0 61000
+S
+#61003
+The Armory~
+Rows upon rows of exotic weapons and armor line the walls.  Shelves
+filled with magically glowing books and potions form small islands of
+knowledge in the sea of death's toys.  You see how much power the
+Brotherhood has just by glancing at the wealth represented in this room.  
+ 
+~
+0 5259274 0
+D0
+~
+~
+0 0 61000
+S
+#61004
+The Dragon Stables~
+The sounds of dragon calls fill the air.  You see dozens of stables that
+are used to house the numerous dragon steeds owned by the Brotherhood.  An
+enormous #3golden dragon#n slowly rumbles up to you, #3Where would you
+#3like me to take you Master?#n
+~
+0 4210702 0
+D4
+~
+~
+0 0 61000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 61000 1 61001
+M 0 61001 1 61002
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,3627 @@
+#AREADATA
+Name        Monkies~
+Builders    Jester~
+VNUMs       91000 91499
+Security    9
+Recall      3001
+End
+
+
+
+#MOBILES
+#91011
+wild monkey~
+a wild monkey~
+A small brown monky sits in the branches of a nearby tree.
+~
+You see a small brown monkey sitting here licking a stick and pointing fingers at you.
+~
+17 268435456 500 S
+59 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91012
+pack ape~
+A male pack ape~
+A Large ape stands here, teeth bared...ready to attack.
+~
+Ever heard someone call another person a muscle-bound monkey?  Well this is where it came from.
+~
+13 4260394 1000 S
+77 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91013
+butterfly insect~
+A beautiful butterfly~
+A small colorful insect flies around your head.
+~
+You see a small winged insect of many colors.
+~
+1 8320 1000 S
+57 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#91014
+pack ape~
+A female pack ape~
+A female ape sits here guarding the younger apes.
+~
+You see a mother ape standing here looking cute.
+~
+1 0 1000 S
+102 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91015
+native~
+A native~
+A native tribesman stands here tending to his work.
+~
+The man looks to be in a hurry about doin his work..he barely seems to notice you.
+~
+1 66050 0 S
+98 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91016
+native~
+A native woman~
+A native lady stands here gossiping to anyone that will listen.
+~
+You see a native lady here.  Better not mess with her and make the king jealous.
+~
+33 65538 0 S
+63 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91026
+chimney bird~
+a chimney bird~
+A small bird flies around the tops of the trees.
+~
+You see a small colorful bird
+~
+19 622848 1000 S
+59 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91028
+Medicine man~
+The Medicine man~
+An old native man lies here asleep
+~
+You see an old man sleeping here.  He is covered with tattoos of all design, shape and color.  He also has about every body-part on his body pierced in some way.
+~
+19 4391612 1000 S
+43 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#91029
+shrunken head ~
+A shrunken head~
+A shrunken head is here
+~
+YUCK!
+~
+83 536870912 0 S
+61 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#91031
+Master ceremonies native~
+The Master of Ceremonies~
+A wrinkled old man sits here upon his throne.
+~
+You see an old man.
+~
+19 532668 1000 S
+78 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91032
+follower ceremony native~
+A cultist native~
+A native bows before an ancient man.
+~
+You see a native clad in solid white robes
+~
+19 8322 1000 S
+83 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91033
+King native white large~
+The Native King~
+A rather large husky man stands here with his arms upraised.
+~
+You see the king of the natives standing here clad in white furs.
+~
+19 128 1000 S
+195 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91049
+Waterfall ape~
+The waterfall ape~
+A great white ape stands here, covered in blood, gnawing on a bone.  It looks at you and attacks!
+~
+Once a great leader of the apes, this ape fell to the darkness of evil.  Its once white fur is drenched in blood, almost making it look black.  Great fangs sprout from its mouth and its eyes glow red.
+~
+31 8872 0 S
+215 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91050
+a native woman~
+A native woman~
+A native woman scrambles for her hut.
+~
+You see a native lady dressed in fabric of many colors.
+~
+51 0 100 S
+72 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91051
+a native woman~
+A native lady~
+A native woman travel through the village trading goods.
+~
+Wanna buy a necklace?  Too bad, you not worthy!
+~
+51 0 0 S
+52 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91052
+a Native Warrior~
+A native warrior~
+A native man stands here guarding his children
+~
+You see a mucle clad native man with rings of gold in his ears
+~
+19 8320 0 S
+87 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91053
+an elderly native man~
+An elderly man~
+An elderly native man sit here in a chair smoking his pipe.
+~
+GET AWAY FROM ME YOU WIPPER SNAPPER!!
+~
+51 0 0 S
+72 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91054
+a native man~
+a native man~
+A native man is going about his chores.
+~
+Tall and skinny, this man is rushing about doin his chores before the sun goes down.
+~
+19 8192 0 S
+49 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91055
+a native toddler~
+A native child~
+A young boy sits here playing in the dirt.
+~
+You see a naked toddler boy covered in dirt.
+~
+51 0 0 S
+65 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91056
+a native female child~
+A female child~
+A little girl sits here next to here home playing with a doll.
+~
+MY DOLLIE!
+~
+51 0 0 S
+15 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91057
+a native boy~
+a native boy~
+A boy stands here throwing spears at a tree.
+~
+You see an upcoming tribal warrior.
+~
+51 0 0 S
+42 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91058
+a teenage native girl~
+An adolescent female~
+A teenage native girl is here making baskets.
+~
+You notive great skill in her basket making.
+~
+51 0 0 S
+73 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91060
+a native spirit dancer~
+A Spirit Dancer~
+A masked figure is dancing around a bonfire.
+~
+You see a finely clad male spirit dancer.
+~
+19 8322 0 S
+64 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91061
+a native spirit dancer~
+A Spirit Dancer~
+A native stands here chanting words to his god.
+~
+You shouldn't be looking at me.
+~
+19 8320 0 S
+83 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91062
+a native spirit dancer~
+A Native Shaman~
+A man dressed in white robes stands here.
+~
+You see a well groomed man standing here watching over the ceremony.
+~
+19 8320 0 S
+59 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91063
+a native trader~
+a native trader~
+A glowing image of a man is here, trying to sell you his goods
+~
+Buy!!  please for the sake of god!!  buy!!
+~
+19 16384 1000 S
+510 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#91064
+a native healer~
+A native healer~
+A native healer is standing here healing the wounds of the village.
+~
+NONE.
+~
+19 8320 0 S
+64 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91065
+a young ape~
+a baby monkey~
+A young ape sit here playing with his food.
+~
+Small furry and cute...take one home with you?   $55
+~
+19 8192 100 S
+44 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#91066
+a Native Warrior~
+A native warrior~
+A native man stands here guarding his children
+~
+You see a mucle clad native man with rings of gold in his ears
+~
+19 8320 0 S
+87 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91067
+a Native Warrior~
+A native warrior~
+A native man stands here guarding his children
+~
+You see a mucle clad native man with rings of gold in his ears
+~
+19 8320 0 S
+71 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91068
+a Native Warrior~
+A native warrior~
+A native man stands here guarding his children
+~
+You see a mucle clad native man with rings of gold in his ears
+~
+19 8320 0 S
+83 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91069
+a Native Warrior~
+A native warrior~
+A native man stands here guarding his children
+~
+You see a mucle clad native man with rings of gold in his ears
+~
+19 8320 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91070
+an elderly native man~
+An elderly man~
+An elderly native man sit here in a chair smoking his pipe.
+~
+GET AWAY FROM ME YOU WIPPER SNAPPER!!
+~
+51 0 0 S
+65 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91071
+an elderly native man~
+An elderly man~
+An elderly native man sit here in a chair smoking his pipe.
+~
+GET AWAY FROM ME YOU WIPPER SNAPPER!!
+~
+51 0 0 S
+59 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91072
+a native man~
+a native man~
+A native man is going about his chores.
+~
+Tall and skinny, this man is rushing about doin his chores before the sun goes down.
+~
+1 8192 0 S
+69 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91073
+a native man~
+a native man~
+A native man is going about his chores.
+~
+Tall and skinny, this man is rushing about doin his chores before the sun goes down.
+~
+1 8192 0 S
+38 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91074
+a native man~
+a native man~
+A native man is going about his chores.
+~
+Tall and skinny, this man is rushing about doin his chores before the sun goes down.
+~
+1 8192 0 S
+72 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91075
+a native man~
+a native man~
+A native man is going about his chores.
+~
+Tall and skinny, this man is rushing about doin his chores before the sun goes down.
+~
+1 8192 0 S
+83 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91076
+a native man~
+a native man~
+A native man is going about his chores.
+~
+Tall and skinny, this man is rushing about doin his chores before the sun goes down.
+~
+1 8192 0 S
+59 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91077
+a native man~
+a native man~
+A native man is going about his chores.
+~
+Tall and skinny, this man is rushing about doin his chores before the sun goes down.
+~
+1 8192 0 S
+58 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91078
+a native toddler~
+A native child~
+A young boy sits here playing in the dirt.
+~
+You see a naked toddler boy covered in dirt.
+~
+51 0 0 S
+15 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91079
+a native toddler~
+A native child~
+A young boy sits here playing in the dirt.
+~
+You see a naked toddler boy covered in dirt.
+~
+51 0 0 S
+29 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91080
+a native female child~
+A female child~
+A little girl sits here next to here home playing with a doll.
+~
+MY DOLLIE!
+~
+51 0 0 S
+41 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91081
+a native female child~
+A female child~
+A little girl sits here next to here home playing with a doll.
+~
+MY DOLLIE!
+~
+51 0 0 S
+29 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91082
+a native female child~
+A female child~
+A little girl sits here next to here home playing with a doll.
+~
+MY DOLLIE!
+~
+51 0 0 S
+87 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91083
+a native boy~
+a native boy~
+A boy stands here throwing spears at a tree.
+~
+You see an upcoming tribal warrior.
+~
+51 0 0 S
+72 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91084
+a native boy~
+a native boy~
+A boy stands here throwing spears at a tree.
+~
+You see an upcoming tribal warrior.
+~
+51 0 0 S
+30 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91085
+a native boy~
+a native boy~
+A boy stands here throwing spears at a tree.
+~
+You see an upcoming tribal warrior.
+~
+51 0 0 S
+90 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91086
+a teenage native girl~
+An adolescent female~
+A teenage native girl is here making baskets.
+~
+You notive great skill in her basket making.
+~
+51 0 0 S
+45 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91087
+a teenage native girl~
+An adolescent female~
+A teenage native girl is here making baskets.
+~
+You notive great skill in her basket making.
+~
+51 0 0 S
+55 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91088
+a teenage native girl~
+An adolescent female~
+A teenage native girl is here making baskets.
+~
+You notive great skill in her basket making.
+~
+51 0 0 S
+4 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91089
+a native woman~
+A native lady~
+A native woman travel through the village trading goods.
+~
+Wanna buy a necklace?  Too bad, you not worthy!
+~
+33 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91090
+a native woman~
+A native lady~
+A native woman travel through the village trading goods.
+~
+Wanna buy a necklace?  Too bad, you not worthy!
+~
+33 0 0 S
+63 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91091
+a native woman~
+A native lady~
+A native woman travel through the village trading goods.
+~
+Wanna buy a necklace?  Too bad, you not worthy!
+~
+33 0 0 S
+65 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91092
+a native woman~
+A native lady~
+A native woman travel through the village trading goods.
+~
+Wanna buy a necklace?  Too bad, you not worthy!
+~
+33 0 0 S
+56 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91093
+a native woman~
+A native woman~
+A native woman scrambles for her hut.
+~
+You see a native lady dressed in fabric of many colors.
+~
+33 0 100 S
+38 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91094
+a native woman~
+A native woman~
+A native woman scrambles for her hut.
+~
+You see a native lady dressed in fabric of many colors.
+~
+33 0 100 S
+56 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91095
+a native woman~
+A native woman~
+A native woman scrambles for her hut.
+~
+You see a native lady dressed in fabric of many colors.
+~
+33 0 100 S
+47 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91096
+a native woman~
+A native woman~
+A native woman scrambles for her hut.
+~
+You see a native lady dressed in fabric of many colors.
+~
+33 0 100 S
+61 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91097
+pack ape~
+A female pack ape~
+A female ape sits here guarding the younger apes.
+~
+You see a mother ape standing here looking cute.
+~
+1 0 0 S
+192 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91098
+pack ape~
+A female pack ape~
+A female ape sits here guarding the younger apes.
+~
+You see a mother ape standing here looking cute.
+~
+1 0 0 S
+112 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#91099
+a wild monkey~
+a wild monkey~
+A wild little monkey runs around creating mischief.
+~
+~
+33 0 1000 S
+79 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#91159
+colossus sardia~
+the Colossus of Sardia~
+The Colossus of Sardia stands guard.
+~
+From the Sardian mountains wakes ancient doom;
+Warrior born from a rocky womb.
+~
+1043 4268200 1000 S
+926 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#91000
+no name~
+(no short description)~
+(no description)~
+~
+9 0 0
+0 0 0 10
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#91004
+chest ~
+a wooden chest~
+A small wooden chest.~
+~
+15 32 0
+10000 4 0 0
+10000 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#91022
+fireplace ~
+a small fireplace~
+A small fireplace of stone is glowing brightly.~
+~
+12 1 0
+0 0 0 0
+1000 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#91023
+altar meeting room~
+a meeting altar~
+A small altar covered in ash and paint sit here in the center of the room.~
+~
+12 64 0
+0 0 0 0
+10000 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#91024
+bowel paints~
+a small broken bowl~
+A small bowl.~
+~
+13 192 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#91028
+cot~
+a wooden cot~
+A grassmat cot sits here in the corner.~
+~
+12 64 0
+0 0 0 0
+10000 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#91031
+Ceremonial staff~
+a ceremonial staff~
+A staff of gold lies here.~
+~
+5 5249 16384
+0 25 27 7
+2 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#91033
+royal battle native axe~
+a royal battle axe~
+A broad axes lies here.~
+~
+5 83 16384
+0 50 65 3
+20 2 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#91000
+Home Office of Mortal Affairs and monkey trading~
+You are standing in  a small dim lit room.  You can hear the chattering of monkies from the shadows in the corners.  In the center of the room you see a small plastic desk with a name plaque that says "Jester" on it.  A black answering machine sits here, seemingly broken cause it keeps playing "Be back soon...be back soon."
+~
+0 4 0
+D3
+~
+~
+524295 0 91003
+S
+#91001
+Hall of the Ancients~
+You have entered the large white building towards the end of the street. 
+Once inside the main courtway you notice the gothic look as large pillars
+rise from the floor near each wall.  There must be 20 or 30 of these pillars
+lining the west and east walls.  The room is much cleaner than the area
+outside and surprises you at the the detail put into the stonework.  As you
+walk towards the far end of the room, toward the exits you notice that a
+picture of each of the major classes is engraved into the stone pillars. 
+These murals and many more are inscribed with great care into the pillars
+about a foot off the ground.  You are drawn to the one with a Werewolf on
+it.  (look werewolf) 
+~
+0 90116 0
+E
+ninja~
+On a pillar of white and black, the fight between the ancient shoguns and the modern ninjas takes place.  Ninjas stand in battle, taking blade to blade and hand to hand.
+~
+E
+vampire~
+On a blood stained marble pillar the name "COLLEN" bleeds, dripping toward the floor.   Standing amidst a field of shattered bodies and decapitated warriors a lone Vampire cleans its sword, licking the blood off with a frenzy of hunger.
+~
+E
+monk~
+Engraved on a pillar of white, the name "ELKOR" frames the bottom side of
+a monk ruin picture.  The monk is standing at an ancient altar praying to
+god for power in battle.  
+~
+E
+drow~
+Without name or soul a Dark Elf, or Drow as most know, sits here playing with the powers of darkness.  The pillar is old and broken, without a god to save it.
+~
+E
+mage~
+Standing tall, a pillar of swirling colors seems to be alive.  The name
+"KIP" flashes in and out of existence as the pillar's chaos continues.  A
+hazy picture of a battle-mage appears to you.  The man is tall, dark and
+full of energy, as the very air around him crackles and his skin glows.  
+~
+E
+highlander~
+A pillar of granite rock stands here through the ages.   The name "JESTER" is chiselled into the hard, rough stone.  There is a picture of a man, kneeling before another who's sword is raised high towards the air.   As you watch, the picture changes, moving...and the sword falls deep with the kneeling man's neck.  The head topples to the ground and the body slumps over, leaving ONLY ONE.  
+~
+E
+demon~
+Here stands a pillar of bitch plack granite.  The name "ONYX" is burned
+into the stone with a firey glow.  Each letter seems to leap out at you,
+teasing you with its flame.  An image of a brute, evil looking daemon
+standing on a pile of bro ken skulls at the entrance to hell, is above the
+name.  
+~
+E
+werewolf~
+You see a white marble pillar standing here.  The name "PORTHOS" is
+engraved in ancient scrawl, but is beautifully done.  Above the name, a
+faint image of a tall, muscular werewolf stands with klaive in hand,
+fighting off a drove of Wyrm 
+~
+D0
+~
+~
+0 0 91002
+S
+#91002
+Temple Hallway~
+You are walking inside the Temple of the Ancients.  The marble floor is polished to a silky shine.  Not a sound is made as you walk, filling the air with and eerie silence.  
+~
+0 0 0
+D0
+~
+~
+0 0 91003
+D1
+~
+~
+7 0 91004
+D2
+~
+~
+0 0 91001
+D3
+~
+~
+0 0 91005
+S
+#91003
+Temple Hallway~
+You are walking inside the Temple of the Ancients.  The marble floor is polished to a silky shine.  Not a sound is made as you walk, filling the air with and eerie silence.  
+~
+0 24576 0
+D0
+~
+~
+0 0 91006
+D1
+~
+~
+524295 0 91000
+D2
+~
+~
+0 0 91002
+S
+#91004
+The Waiting Room~
+Standing in the waiting room of any establishment is boring.  This place is the same way.  Sit and wait til the next immortal can help you.  Thank you and come again.
+~
+0 25600 0
+D3
+~
+~
+7 0 91002
+S
+#91005
+Battle Quest~
+This room is adorned with the weapons of the ancients.  Large torture racks and other means of death are strewn about the outter edges of the room.  In the center, there is a large fighting ring.  Shall you be the next to win the pkill battle arena?
+~
+0 24576 0
+D1
+~
+~
+0 0 91002
+S
+#91006
+Temple Hallway~
+You are walking inside the Temple of the Ancients.  The marble floor is polished to a silky shine.  Not a sound is made as you walk, filling the air with and eerie silence.  
+~
+0 24576 0
+D0
+~
+~
+0 0 91007
+D2
+~
+~
+0 0 91003
+S
+#91007
+Temple Hallway~
+You are walking inside the Temple of the Ancients.  The marble floor is polished to a silky shine.  Not a sound is made as you walk, filling the air with and eerie silence.  
+~
+0 24576 0
+D0
+~
+~
+0 0 91008
+D2
+~
+~
+0 0 91006
+S
+#91008
+Temple Hallway~
+You are walking inside the Temple of the Ancients.  The marble floor is polished to a silky shine.  Not a sound is made as you walk, filling the air with and eerie silence.  
+~
+0 24576 0
+D0
+~
+~
+0 0 91009
+D2
+~
+~
+0 0 91007
+S
+#91009
+Temple Hallway~
+You are walking inside the Temple of the Ancients.  The marble floor is polished to a silky shine.  Not a sound is made as you walk, filling the air with and eerie silence.  
+~
+0 24576 0
+D2
+~
+~
+0 0 91008
+D4
+~
+~
+0 0 91010
+S
+#91010
+~
+~
+0 24576 0
+D4
+~
+~
+0 0 3054
+D5
+~
+~
+0 0 91009
+S
+#91011
+Welcome to the Jungle~
+You are standing at the edge of a vast line of trees.  You can hear the chattering of monkies and wild birds from the depths of the forest.  A gentle dew is covering every plant leaf that covers the ground and drips from the tree bowes far above.
+~
+0 0 4
+D1
+~
+~
+0 0 91012
+D2
+~
+~
+0 0 4777
+S
+#91012
+Just within the jungle~
+You are on a small path running through the jungle.  Dense undergrowth limits your travels to a slow pace as you watch for dangerous animals in the area.  
+~
+0 8193 3
+D1
+~
+~
+0 0 91013
+D3
+~
+~
+0 0 91011
+S
+#91013
+Jungle Terrain~
+You are in the jungle, twisting and turning around bush and tree.  Small butterflies flutter around your head and bird chirp from the trees above.
+~
+0 8193 3
+D0
+~
+~
+0 0 91014
+D3
+~
+~
+0 0 91012
+S
+#91014
+Jungle Terrain~
+You are in the jungle, twisting and turning around bush and tree.  Small butterflies flutter around your head and bird chirp from the trees above.
+~
+0 8193 3
+D1
+~
+~
+0 0 91015
+D2
+~
+~
+0 0 91013
+S
+#91015
+The Base of the Tree~
+You are standing at the base of a large knarled tree.  From the looks of it, it has been here for centuries, it is covered with moss and licen.  Birds nest can be seen in the branches above and sunligh gently filters down to the jungle floor.
+~
+0 8193 3
+D0
+~
+~
+0 0 91034
+D3
+~
+~
+0 0 91014
+D4
+~
+~
+0 0 91016
+S
+#91016
+Up the Ladder~
+You are climbing the ladder that leads up the side of the ancient tree.  The old rope seems to barely support your weight.
+~
+0 0 9
+D4
+~
+~
+0 0 91017
+D5
+~
+~
+0 0 91015
+S
+#91017
+Up the Ladder~
+You are climbing the ladder that leads up the side of the ancient tree.  The old rope seems to barely support your weight.
+ 
+~
+0 0 9
+D4
+~
+~
+0 0 91018
+D5
+~
+~
+0 0 91016
+S
+#91018
+Top of the ladder~
+You are at the top of a rope ladder leading down to the forest floor below.
+~
+0 0 9
+D1
+~
+~
+0 0 91019
+D5
+~
+~
+0 0 91017
+S
+#91019
+A tree branch~
+You are standing on a large bare limb that stretches far off away from the trunk of the tree.  At the other end you see a treehouse perched among the leaves.
+~
+0 0 0
+D1
+~
+~
+0 0 91020
+D3
+~
+~
+0 0 91018
+S
+#91020
+Treehouse balcony~
+You are standing on a platform made of small planks and limbs from the surrounding trees. It runs around the trunk of the tree at an upward angle leading into the higher branches.  All that keeps you from falling off is a make-shift railing made of vines and leaves.
+~
+0 0 3
+D0
+~
+~
+0 0 91021
+D3
+~
+~
+0 0 91019
+S
+#91021
+Inside the tree trunk~
+Within the treetrunk you can see that whoever built it was from an age long ago.  The walls are scribed with runes and a language long forgotten.  Powerful pictures of men with spears and animals of days far gone show the depth and ritual behavior of ancient men are draw into the wood near the door.
+You can see a staircase made into the north wall leading furthur up in the trunk.  Bright lights shine down from the doorway at the top.
+~
+0 5 0
+D2
+~
+~
+0 0 91020
+D4
+~
+~
+0 0 91022
+S
+#91022
+Up the Staircase~
+Walking up the stairs you come to another small room filled with objects that the last inhabitants left behind.  Along the walls there are torches, long burned out, hanging from vines and hooks of flint.
+~
+0 0 0
+D0
+~
+~
+0 0 91027
+D1
+~
+~
+0 0 91023
+D4
+~
+~
+0 0 91024
+D5
+~
+~
+0 0 91021
+S
+#91023
+The meeting room~
+What you see must have been the native's meeting room.  A small altar sits in the middle of the room surrounded by benches of wood.  Bowels of dried paints lie in the corner, spilt and broken.
+~
+0 0 0
+D0
+~
+~
+0 0 91030
+D3
+~
+~
+0 0 91022
+S
+#91024
+smoke chimney~
+You are flying up the chimney from the meeting room.  The walls are covered in s
+oot and are completely black.
+                               
+~
+0 0 9
+D4
+~
+~
+0 0 91025
+D5
+~
+~
+0 0 91022
+S
+#91025
+Smoke chimney~
+You are flying up the chimney from the meeting room.  The walls are covered in soot and are completely black.
+~
+0 0 9
+D4
+~
+~
+0 0 91026
+D5
+~
+~
+0 0 91024
+S
+#91026
+Chimney top~
+You are at the top of the chimney which pokes out the top of the tree.  From here you can see the far stretching lands of the world.  In the distance you can see the smoke of Midgaard's house and shops floating loftly into the sky.  It is so peaceful you feel as though you could stay here forever and just watch time pass by below you.
+~
+0 1536 9
+D5
+~
+~
+0 0 91025
+S
+#91027
+Out on a Limb~
+You find yourself walking along a wooden plank walkway extending out a limb.  Looking down you can see the forest floor far below.  Gentle movements suggest that there are living creatures stirring about.
+~
+0 0 0
+D0
+~
+~
+0 0 91028
+D2
+~
+~
+0 0 91022
+S
+#91028
+Medicine Hut~
+At the end of the large limb you find a smaller building made of wooden planks.  As you enter you notice various bottles and bowels sitting on shelves and tables.  In the corner is a cot fixed with a bedmat of grass reeds.  Looking out a small window to the north side of the hut you can see that the forest stretches for miles and miles into the distance.
+~
+0 0 0
+D1
+~
+~
+0 0 91029
+D2
+~
+~
+0 0 91027
+S
+#91029
+A small nook~
+This room seems to be a private room of the medicine man.  The walls are filled with carvings of rituals and healings.  On the north wall there is a row of shrunken heads hanging from small vines.  Ants race in and out of the orifices of the heads, making them a terrible sight to look at.
+~
+0 0 0
+D3
+~
+~
+0 0 91028
+S
+#91030
+Second Level Balcony~
+You are standing on a wooden platform about 10 feet above another.  Looking up you see another that seems closer to 50 feet up.
+~
+0 0 0
+D0
+~
+~
+0 0 91031
+D2
+~
+~
+0 0 91023
+S
+#91031
+The Ceremonies Room~
+You are standing in the middle of a very large room.  It is well lit and the east side is totally open due to what seems to be a knothole.  It is in the perfect location and filters sunlight into the room.  On the west side you notice a large throne surrounded by roughcut chairs in a half-circle.
+~
+0 0 0
+D0
+~
+~
+0 0 91032
+D2
+~
+~
+0 0 91030
+S
+#91032
+A platform~
+You are standing on a platform extending away from the ceremonies room.  It juts out away from the tree trunk more than 50 feet and a slight upward angle.  At the end of the platform you see a man wearing a white cape, holding his hands toward the sky.
+~
+0 0 3
+D0
+~
+~
+0 0 91033
+D2
+~
+~
+0 0 91031
+S
+#91033
+Vision Quest~
+You are standing on the end of a long platform extending away from the treehouse.  You can see far into the jungle from here.
+~
+0 0 3
+D2
+~
+~
+0 0 91032
+S
+#91034
+Valley of the Apes~
+You have come to a large ravine in the middle of the jungle.  The steeps sides disappear into the fog of the valley below.  You notice smoke rising from the far end of the valley and hear the chanting of nativess.
+~
+0 4 0
+D2
+~
+~
+0 0 91015
+D5
+~
+~
+0 0 91035
+S
+#91035
+Down the Valley Wall~
+You follow a small, well worn path down the side of the ravine.  You can smell the fragrant smell of various flowers floating around the air.  A gentle fog creeps out of the undergrowth and onto the pathway ahead.
+~
+0 0 3
+D5
+~
+~
+0 0 91036
+S
+#91036
+Into the Fog~
+As you make your way farther into the valley you find yourself entering the fog you had seen earlier.  Your vision begins to fade as you can hardly see the path ahead of you
+~
+0 0 3
+D5
+~
+~
+0 0 91037
+S
+#91037
+At the Bottom of the Valley~
+You have reached the bottom of the ravine.  As you look back, you can not see the path that you came down.  It is as though it just disappeared behind you.  You are stuck in the bottom of the canyon so you might as well explore and find another route out.
+~
+0 1 3
+D1
+~
+~
+0 0 91038
+S
+#91038
+Along the Valley Floor~
+You slowly pick your way along the narrow path leading through the ravine.  You are headed straight for the smoke that you saw from the rim of the valley earlier.  You smell the strong scent of apes.
+~
+0 0 0
+D0
+~
+~
+0 0 91039
+D3
+~
+~
+0 0 91037
+S
+#91039
+Along a Stream~
+You have come across a gentle stream that has helped to carve this valley over the last few centuries.  The water is moving swift and is bubbling around rocks and trees that lie in the bottom of the valley.
+~
+0 0 0
+D1
+~
+~
+0 0 91040
+D2
+~
+~
+0 0 91038
+S
+#91040
+Along a Babbling Stream~
+You are following the streambed which flows to the northeast.  You stop for a drink and notice small fish swimming in the shallows of the stream.  They are beautifully colored and seem to be painted there instead of actually living..so perfect..so gentle.  A harsh gentleness in the middle of a raging storm.
+~
+0 0 0
+D0
+~
+~
+0 0 91041
+D3
+~
+~
+0 0 91039
+S
+#91041
+Furthur into the Canyon~
+You are farther into the canyon now.  Looking back you can't see the Treehouse standing at the edge of the ravine where you came down.  The gentle fog has now become very thick and sounds of movement in the underbrush nearby is rising.
+~
+0 0 0
+D0
+~
+~
+0 0 91042
+D2
+~
+~
+0 0 91040
+S
+#91042
+A Canyon Clearing~
+You have come to a wide spot in the canyon where the underbrush has receded leaving just the canyon walls.  The gentle stream has now become a raging river along the eastern wall, digging its way along towards the sea.  Looking down you see large footprints, similar to a human's, in the mud.  
+~
+0 0 0
+D0
+~
+~
+0 0 91043
+D2
+~
+~
+0 0 91041
+S
+#91043
+Waterfall~
+The canyon is now about 100 feet wide with a raging river running along the eastern wall.  A giant spray of water rises into the air as the river comes to a large drop off and falls to the valley farther below.  You see a smaller path running along the edge of the river and decending down the side of the cliff.
+~
+0 4 0
+D2
+~
+~
+0 0 91042
+D5
+~
+~
+0 0 91044
+S
+#91044
+Down the Waterfall Path~
+The path down the cliff runs along the edge of the water fall. Down, down into the valley you go.  Very frequently the path runs across the cliff behind the waterfall, spraying you with a gentle foam of water.  The path is slippery and has moss grown completely over it but it seems to be well used.
+~
+0 4 0
+D4
+~
+~
+0 0 91043
+D5
+~
+~
+0 0 91045
+S
+#91045
+Bottom of the Valley~
+You have reached the bottom of the valley and have came upon a large pool of blue water formed from the pounding of the waterfall.  The pool is very deep and dark but looks so serene.  You gaze into the water and notice small ripple from movement in the water.  Thinking it is just the waterfall you continue on your way.   
+~
+0 4 0
+D0
+~
+~
+0 0 91050
+D2
+~
+~
+0 0 91048
+D4
+~
+~
+0 0 91044
+D5
+~
+~
+0 0 91046
+S
+#91046
+In the Pool~
+The water is very warm and pleasing.  Small fish swim around you, sunlight flashing off their multicolored scales.  Water plants gently sway to and fro from the current of the waters.  You notice a small area to the east that glimmers more than the rest of the pool floor.
+~
+0 0 0
+D1
+~
+~
+0 0 91047
+D4
+~
+~
+0 0 91045
+S
+#91047
+A Watery Alcove~
+Swimming to the east you find that the glimmering shape was a large school of golden fish.  They swim about you; between your legs and around your arms they dart.  The water is much warmer here and the sunlight from above is very bright.
+~
+0 0 0
+D3
+~
+~
+0 0 91046
+S
+#91048
+Waterfall Cave~
+A gentle rumble fills this room which is large and smells of dank decay as though something has died here.  Looking about you see piles of bones and fur lying in the corners.  Either something died here or this is the remains of a beasts last supper.  Better hurry along before it comes back, you might be its next!
+~
+0 9 0
+D0
+~
+~
+0 0 91045
+D2
+~
+~
+0 0 91049
+S
+#91049
+Dead End~
+You have pushed your luck and entered the room where the rumbling was coming from.  A large pile of fur and brush lays here forming a giant nest or bed.
+~
+0 1 0
+D0
+~
+~
+0 0 91048
+S
+#91050
+Along the River~
+You are following the river furthur into this long valley.  It has become wider since you left the waterfall and is now opening up into a large forest area.  The trees have gotten bigger and resemble those that you left in the jungle at the rim of the valley.  The scent of apes is in the air and the smoke you saw earlier is much closer.
+~
+0 0 2
+D0
+~
+~
+0 0 91051
+D2
+~
+~
+0 0 91045
+S
+#91051
+Into the Trees~
+You have left the river as it rages on to the east.  Entering the sprawl of trees you notice small monkies playing in the treetops.  The forest floor is moss covered and moist.  Large spots of mud make travel hard, as you have to carefully pick your way through the dry spots.
+~
+0 0 3
+D0
+~
+~
+0 0 91052
+D2
+~
+~
+0 0 91050
+S
+#91052
+Walking Through the Woods~
+The forest floor is moss covered and moist.  Large spots of mud make travel hard, as you have to carefully pick your way through the dry spots.
+~
+0 4 3
+D0
+~
+~
+0 0 91053
+D2
+~
+~
+0 0 91051
+S
+#91053
+Walking Through the Woods~
+The forest floor is moss covered and moist.  Large spots of mud make travel hard, as you have to carefully pick your way through the dry spots.
+~
+0 4 0
+D0
+~
+~
+0 0 91054
+D2
+~
+~
+0 0 91052
+S
+#91054
+Along a Path Into the Village~
+You have come upon village of natives.  Small huts of bamboo and thatching dot the landscape and fill in the open spaces between the trees.  Decorative masks hang from the doors of the huts and long spears are balanced against the walls.
+~
+0 0 1
+D1
+~
+~
+0 0 91055
+D2
+~
+~
+0 0 91053
+S
+#91055
+Walking in the Village~
+You are traveling through this small village.  Natives are all about, tending to their duties amongst the large trees.  Grass lines the path here in lust bunches and flowers line the outter walls of the huts.
+~
+0 0 1
+D0
+~
+~
+0 0 91056
+D1
+~
+~
+0 0 91063
+D3
+~
+~
+0 0 91054
+S
+#91056
+Village Square~
+You are standing in the middle of the native village, huts surround the area.  The chatter of birds and monkies fill the air.  The hustle and bustle of natives makes the area a lively retreat from the harsh world around the village.
+~
+0 0 1
+D0
+~
+~
+0 0 91057
+D2
+~
+~
+0 0 91055
+S
+#91057
+Walking Through the Village~
+You are traveling through this small village.  Natives are all about, tending to their duties amongst the large trees.  Grass lines the path here in lust bunches and flowers line the outter walls of the huts
+~
+0 0 1
+D0
+~
+~
+0 0 91058
+D1
+~
+~
+0 0 91065
+D2
+~
+~
+0 0 91056
+D3
+~
+~
+0 0 91067
+S
+#91058
+Spirit Dance~
+You have come upon a spiritual area.  Torches shine brightly and music fills the air as the natives call upon their gods for knowledge and fortune.  
+~
+0 0 1
+D0
+~
+~
+0 0 91059
+D2
+~
+~
+0 0 91057
+S
+#91059
+Walking Through the Village~
+You are traveling through this small village.  Natives are all about, tending to their duties amongst the large trees.  Grass lines the path here in lust bunches and flowers line the outter walls of the huts
+~
+0 0 1
+D0
+~
+~
+0 0 91060
+D2
+~
+~
+0 0 91058
+S
+#91060
+Temple ~
+~
+0 4 0
+D0
+~
+~
+0 0 91061
+D1
+~
+~
+0 0 91066
+D2
+~
+~
+0 0 91059
+D3
+~
+~
+0 0 91068
+S
+#91061
+Room of Healing~
+Cots line the room and the sick and dying are here being tended to by the healer.  
+~
+0 0 0
+D2
+~
+~
+0 0 91060
+S
+#91062
+A Native's Hut~
+This is a small, well kept hut of a native.  All this person's possessions lie about the room in and orderly fashion.  Makeshift furniture sits about the room.  Small windows line the walls, illuminating the room with light from outside.
+~
+0 0 0
+D0
+~
+~
+0 0 91063
+S
+#91063
+Walking Through the Village~
+You are traveling through this small village.  Natives are all about, tending to their duties amongst the large trees.  Grass lines the path here in lust bunches and flowers line the outter walls of the huts
+~
+0 0 1
+D0
+~
+~
+0 0 91064
+D2
+~
+~
+0 0 91062
+D3
+~
+~
+0 0 91055
+S
+#91064
+A Native's Hut~
+You are standing in a small hut filled with goods of all types.  A table sits along the east wall with a bowel of beads and multi-colored stones sitting upon it.
+~
+0 0 0
+D2
+~
+~
+0 0 91063
+S
+#91065
+A Native's Hut~
+This is a small, well kept hut of a native.  All this person's possessions lie about the room in and orderly fashion.  Makeshift furniture sits about the room.  Small windows line the walls, illuminating the room with light from outside.
+~
+0 0 0
+D3
+~
+~
+0 0 91057
+S
+#91066
+Room of Praying~
+~
+0 0 0
+D3
+~
+~
+0 0 91060
+S
+#91067
+A Native's Hut~
+This is a small, well kept hut of a native.  All this person's possessions lie about the room in and orderly fashion.  Makeshift furniture sits about the room.  Small windows line the walls, illuminating the room with light from outside.
+~
+0 0 0
+D1
+~
+~
+0 0 91057
+S
+#91068
+Sleeping Quarters~
+~
+0 0 0
+D1
+~
+~
+0 0 91060
+S
+#91069
+~
+~
+0 4 0
+S
+#91100
+Entrance to the Mishra's Tower~
+~
+0 4 0
+D0
+~
+~
+0 0 91101
+S
+#91101
+A Long Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91102
+D1
+~
+~
+0 0 91126
+D2
+~
+~
+0 0 91100
+D3
+~
+~
+0 0 91120
+S
+#91102
+A Long Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91103
+D2
+~
+~
+0 0 91101
+S
+#91103
+A Long Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91104
+D1
+~
+~
+0 0 91128
+D2
+~
+~
+0 0 91102
+S
+#91104
+A Dark Intersection~
+~
+0 0 0
+D0
+~
+~
+0 0 91105
+D1
+~
+~
+0 0 91129
+D2
+~
+~
+0 0 91103
+S
+#91105
+A Dark Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91106
+D2
+~
+~
+0 0 91104
+D3
+~
+~
+0 0 91122
+S
+#91106
+A Dark Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91107
+D2
+~
+~
+0 0 91105
+S
+#91107
+A Dim Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91108
+D2
+~
+~
+0 0 91106
+S
+#91108
+A Dim Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91109
+D2
+~
+~
+0 0 91107
+S
+#91109
+A Lit Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91110
+D2
+~
+~
+0 0 91108
+S
+#91110
+A Bright Intersection~
+~
+0 0 0
+D0
+~
+~
+0 0 91111
+D2
+~
+~
+0 0 91109
+S
+#91111
+A Bright Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91112
+D2
+~
+~
+0 0 91110
+S
+#91112
+A Bright Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 3054
+D2
+~
+~
+0 0 91111
+S
+#91113
+~
+~
+0 0 0
+D1
+~
+~
+37 0 91118
+S
+#91114
+Testing Workshop~
+~
+0 0 0
+D1
+~
+~
+0 0 91119
+S
+#91115
+Merchandise Complaint Department~
+~
+0 0 0
+D1
+~
+~
+0 0 91123
+S
+#91116
+~
+~
+0 0 0
+D0
+~
+~
+0 0 91117
+S
+#91117
+~
+~
+0 0 0
+D0
+~
+~
+0 0 91118
+D2
+~
+~
+0 0 91116
+S
+#91118
+Artifact Order Desk~
+~
+0 4096 0
+D1
+~
+~
+0 0 91122
+D2
+~
+~
+0 0 91117
+D3
+~
+~
+37 0 91113
+S
+#91119
+Artificiary's Workshop~
+~
+0 0 0
+D0
+~
+~
+0 0 91121
+D3
+~
+~
+0 0 91114
+S
+#91120
+Guard Room~
+~
+0 0 0
+D1
+~
+~
+0 0 91101
+S
+#91121
+Artifact Repair Facility~
+~
+0 0 0
+D0
+~
+~
+0 0 91122
+D2
+~
+~
+0 0 91119
+S
+#91122
+A Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91123
+D1
+~
+~
+0 0 91105
+D2
+~
+~
+0 0 91121
+D3
+~
+~
+0 0 91118
+S
+#91123
+A Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91124
+D2
+~
+~
+0 0 91122
+D3
+~
+~
+0 0 91115
+S
+#91124
+A Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 91130
+D2
+~
+~
+0 0 91123
+S
+#91126
+Guard Room~
+~
+0 0 0
+D3
+~
+~
+0 0 91101
+S
+#91127
+The Show Room~
+~
+0 0 0
+D0
+~
+~
+0 0 91128
+D1
+~
+~
+0 0 91132
+D3
+~
+~
+0 0 91132
+S
+#91128
+The Show Room~
+~
+0 0 0
+D1
+~
+~
+0 0 91133
+D2
+~
+~
+0 0 91127
+D3
+~
+~
+0 0 91103
+S
+#91129
+A Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 91134
+D3
+~
+~
+0 0 91104
+S
+#91130
+A Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 91136
+D3
+~
+~
+0 0 91124
+S
+#91131
+Storage Closet~
+~
+0 0 0
+D1
+~
+~
+0 0 91137
+D3
+~
+~
+39 0 91119
+S
+#91132
+The Show Room~
+~
+0 0 0
+D0
+~
+~
+0 0 91133
+D1
+~
+~
+0 0 91139
+D3
+~
+~
+0 0 91127
+S
+#91133
+The Show Room~
+~
+0 0 0
+D0
+~
+~
+0 0 91134
+D2
+~
+~
+0 0 91132
+D3
+~
+~
+0 0 91128
+S
+#91134
+A Small Intersection~
+~
+0 0 0
+D0
+~
+~
+0 0 91135
+D1
+~
+~
+0 0 91141
+D2
+~
+~
+0 0 91133
+D3
+~
+~
+0 0 91129
+S
+#91135
+A Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91136
+D2
+~
+~
+0 0 91134
+S
+#91136
+Guard Post~
+~
+0 0 0
+D1
+~
+~
+0 0 91142
+D2
+~
+~
+0 0 91135
+D3
+~
+~
+0 0 91130
+D4
+~
+~
+0 0 91189
+S
+#91137
+Entrance to the Main Factory~
+~
+0 0 0
+D0
+~
+~
+0 0 91138
+D1
+~
+~
+0 0 91143
+D3
+~
+~
+0 0 91131
+S
+#91138
+A hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91139
+D2
+~
+~
+0 0 91137
+S
+#91139
+Door Glow~
+~
+0 0 0
+D0
+~
+~
+0 0 91140
+D2
+~
+~
+0 0 91138
+D3
+~
+~
+0 0 91132
+S
+#91140
+Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91141
+D2
+~
+~
+0 0 91139
+S
+#91141
+Bulletin Board~
+~
+0 0 0
+D2
+~
+~
+0 0 91140
+D3
+~
+~
+0 0 91134
+S
+#91142
+A Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 91160
+D3
+~
+~
+0 0 91136
+S
+#91143
+A hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91144
+D1
+~
+~
+0 0 91149
+D3
+~
+~
+0 0 91137
+S
+#91144
+A hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91145
+D1
+~
+~
+0 0 91150
+D2
+~
+~
+0 0 91143
+S
+#91145
+A hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91146
+D2
+~
+~
+0 0 91144
+S
+#91146
+A hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 91152
+D2
+~
+~
+0 0 91145
+S
+#91147
+Parts Storage~
+~
+0 0 0
+D0
+~
+~
+0 0 91148
+D1
+~
+~
+0 0 91153
+S
+#91148
+Parts Storage~
+~
+0 0 0
+D1
+~
+~
+0 0 91154
+D2
+~
+~
+0 0 91147
+S
+#91149
+A Closet~
+~
+0 0 0
+D0
+~
+~
+0 0 91150
+S
+#91150
+Factory Lounge~
+~
+0 0 0
+D0
+~
+~
+0 0 91151
+D1
+~
+~
+0 0 91155
+D3
+~
+~
+0 0 91144
+S
+#91151
+Factory Lounge~
+~
+0 0 0
+D1
+~
+~
+0 0 91156
+D2
+~
+~
+0 0 91150
+S
+#91152
+A hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91153
+D1
+~
+~
+0 0 91157
+D3
+~
+~
+0 0 91146
+S
+#91153
+Parts Storage~
+~
+0 0 0
+D0
+~
+~
+0 0 91154
+D2
+~
+~
+0 0 91152
+D3
+~
+~
+0 0 91147
+S
+#91154
+Parts Storage~
+~
+0 0 0
+D2
+~
+~
+0 0 91153
+D3
+~
+~
+0 0 91148
+S
+#91155
+Factory Lounge~
+~
+0 0 0
+D0
+~
+~
+0 0 91156
+D3
+~
+~
+0 0 91150
+S
+#91156
+Factory Lounge~
+~
+0 0 0
+D2
+~
+~
+0 0 91155
+D3
+~
+~
+0 0 91151
+S
+#91157
+A hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91158
+D3
+~
+~
+0 0 91152
+S
+#91158
+A hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91159
+D2
+~
+~
+0 0 91157
+S
+#91159
+A hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91160
+D2
+~
+~
+0 0 91158
+S
+#91160
+Guard Post~
+~
+0 0 0
+D1
+~
+~
+0 0 91165
+D2
+~
+~
+0 0 91159
+D3
+~
+~
+0 0 91142
+S
+#91161
+Iron-Heart Chimera Assembly Room~
+~
+0 0 0
+D1
+~
+~
+0 0 91167
+S
+#91162
+Lead-Belly Chimera Assembly Room~
+~
+0 0 0
+D1
+~
+~
+0 0 91168
+S
+#91163
+Tin-Wing Chimera Assembly Room~
+~
+0 0 0
+D1
+~
+~
+0 0 91169
+S
+#91164
+Brass-Talon Chimera Assembly Room~
+~
+0 0 0
+D1
+~
+~
+0 0 91170
+S
+#91165
+A Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 91171
+D3
+~
+~
+0 0 91160
+S
+#91166
+Chimera Assembly Line~
+~
+0 0 0
+D0
+~
+~
+0 0 91167
+D1
+~
+~
+0 0 91173
+D2
+~
+~
+0 0 91188
+D3
+~
+~
+0 0 91149
+S
+#91167
+Chimera Assembly Line~
+~
+0 0 0
+D0
+~
+~
+0 0 91168
+D2
+~
+~
+0 0 91166
+D3
+~
+~
+0 0 91161
+S
+#91168
+Chimera Assembly Line~
+~
+0 0 0
+D0
+~
+~
+0 0 91169
+D2
+~
+~
+0 0 91167
+D3
+~
+~
+0 0 91162
+S
+#91169
+Chimera Assembly Line~
+~
+0 0 0
+D0
+~
+~
+0 0 91170
+D2
+~
+~
+0 0 91168
+D3
+~
+~
+0 0 91163
+S
+#91170
+Chimera Assembly Line~
+~
+0 0 0
+D0
+~
+~
+0 0 91171
+D2
+~
+~
+0 0 91169
+D3
+~
+~
+0 0 91164
+S
+#91171
+Entering the Artificial Intelligence Area~
+~
+0 0 0
+D2
+~
+~
+0 0 91170
+D3
+~
+~
+0 0 91165
+S
+#91172
+Assembly Line Engine Room~
+~
+0 0 0
+D0
+~
+~
+0 0 91173
+S
+#91173
+Golem Assembly Line~
+~
+0 0 0
+D0
+~
+~
+0 0 91174
+D1
+~
+~
+0 0 91179
+D2
+~
+~
+0 0 91172
+D3
+~
+~
+0 0 91166
+S
+#91174
+Golem Assembly Line~
+~
+0 0 0
+D0
+~
+~
+0 0 91175
+D1
+~
+~
+0 0 91180
+D2
+~
+~
+0 0 91173
+S
+#91175
+Golem Assembly Line~
+~
+0 0 0
+D0
+~
+~
+0 0 91176
+D1
+~
+~
+0 0 91181
+D2
+~
+~
+0 0 91174
+S
+#91176
+Golem Assembly Line~
+~
+0 0 0
+D0
+~
+~
+0 0 91177
+D1
+~
+~
+0 0 91182
+D2
+~
+~
+0 0 91175
+S
+#91177
+Golem Assembly Line~
+~
+0 0 0
+D0
+~
+~
+0 0 91178
+D1
+~
+~
+0 0 91183
+D2
+~
+~
+0 0 91176
+S
+#91178
+End of the Assembly Line~
+~
+0 0 0
+D0
+~
+~
+0 0 91185
+D1
+~
+~
+0 0 91184
+D2
+~
+~
+0 0 91177
+S
+#91179
+Patagia Golem Assembly Room~
+~
+0 0 0
+D3
+~
+~
+0 0 91173
+S
+#91180
+Lead Golem Assembly Room~
+~
+0 0 0
+D3
+~
+~
+0 0 91174
+S
+#91181
+Crystal Golem Assembly Room~
+~
+0 0 0
+D3
+~
+~
+0 0 91175
+S
+#91182
+Obsidian Golem Assembly Room~
+~
+0 0 0
+D3
+~
+~
+0 0 91176
+S
+#91183
+Basalt Golem Assembly Room~
+~
+0 0 0
+D3
+~
+~
+0 0 91177
+S
+#91184
+The Inspection Room~
+~
+0 0 0
+D3
+~
+~
+0 0 91178
+S
+#91185
+Shipping Bay~
+~
+0 0 0
+D0
+~
+~
+0 0 91186
+D2
+~
+~
+0 0 91178
+D3
+~
+~
+0 0 91187
+S
+#91186
+Shipping Bay~
+~
+0 0 0
+D2
+~
+~
+0 0 91185
+D3
+~
+~
+0 0 91188
+S
+#91187
+Shipping Bay~
+~
+0 0 0
+D0
+~
+~
+0 0 91188
+D1
+~
+~
+0 0 91185
+S
+#91188
+Shipping Bay~
+~
+0 0 0
+D0
+~
+~
+0 0 91166
+D1
+~
+~
+0 0 91186
+D2
+~
+~
+0 0 91187
+S
+#91189
+Floor Two: Weaponry~
+~
+0 0 0
+D2
+~
+~
+0 0 91190
+D5
+~
+~
+0 0 91136
+S
+#91190
+A 2nd story hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91189
+D1
+~
+~
+0 0 91219
+D2
+~
+~
+0 0 91191
+D3
+~
+~
+0 0 91218
+S
+#91191
+A 2nd story hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91190
+D1
+~
+~
+0 0 91220
+D2
+~
+~
+0 0 91192
+D3
+~
+~
+0 0 91217
+S
+#91192
+A 2nd story hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91191
+D1
+~
+~
+0 0 91193
+D3
+~
+~
+0 0 91216
+S
+#91193
+A 2nd story hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 91214
+D2
+~
+~
+0 0 91194
+D3
+~
+~
+0 0 91192
+S
+#91194
+A 2nd story hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91193
+D1
+~
+~
+0 0 91213
+D2
+~
+~
+0 0 91195
+D3
+~
+~
+0 0 91215
+S
+#91195
+A 2nd story hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91194
+D1
+~
+~
+0 0 91212
+D2
+~
+~
+0 0 91211
+D3
+~
+~
+0 0 91196
+S
+#91196
+A 2nd story hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 91195
+D2
+~
+~
+0 0 91210
+D3
+~
+~
+0 0 91197
+S
+#91197
+A 2nd story hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91198
+D1
+~
+~
+0 0 91196
+D2
+~
+~
+0 0 91209
+D3
+~
+~
+0 0 91208
+S
+#91198
+A 2nd story hallway~
+~
+0 0 0
+D2
+~
+~
+0 0 91197
+D3
+~
+~
+0 0 91199
+S
+#91199
+A 2nd story hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91207
+D1
+~
+~
+0 0 91198
+D3
+~
+~
+0 0 91200
+S
+#91200
+A 2nd story hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91206
+D1
+~
+~
+0 0 91199
+D2
+~
+~
+0 0 91201
+S
+#91201
+A 2nd story hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91200
+D2
+~
+~
+0 0 91202
+S
+#91202
+A 2nd story hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 91201
+D1
+~
+~
+0 0 91203
+D2
+~
+~
+0 0 91205
+S
+#91203
+A Room~
+~
+0 0 0
+D2
+~
+~
+0 0 91204
+D3
+~
+~
+0 0 91202
+S
+#91204
+A Room~
+~
+0 0 0
+D0
+~
+~
+0 0 91203
+D5
+~
+~
+0 0 91221
+S
+#91205
+A Room~
+~
+0 0 0
+D0
+~
+~
+0 0 91202
+S
+#91206
+A Room~
+~
+0 0 0
+D2
+~
+~
+0 0 91200
+S
+#91207
+A hallway~
+~
+0 0 0
+D2
+~
+~
+0 0 91199
+S
+#91208
+~
+~
+0 0 0
+D1
+~
+~
+0 0 91197
+S
+#91209
+A room~
+~
+0 0 0
+D0
+~
+~
+0 0 91197
+S
+#91210
+A room~
+~
+0 0 0
+D0
+~
+~
+0 0 91196
+S
+#91211
+A Room~
+~
+0 0 0
+D0
+~
+~
+0 0 91195
+S
+#91212
+A Room~
+~
+0 0 0
+D3
+~
+~
+0 0 91195
+S
+#91213
+A Room~
+~
+0 0 0
+D3
+~
+~
+0 0 91194
+S
+#91214
+A Room~
+~
+0 0 0
+D3
+~
+~
+0 0 91193
+S
+#91215
+A Room~
+~
+0 0 0
+D1
+~
+~
+0 0 91194
+S
+#91216
+A Room~
+~
+0 0 0
+D1
+~
+~
+0 0 91192
+S
+#91217
+A Room~
+~
+0 0 0
+D1
+~
+~
+0 0 91191
+S
+#91218
+A Room~
+~
+0 0 0
+D1
+~
+~
+0 0 91190
+S
+#91219
+A Room~
+~
+0 0 0
+D3
+~
+~
+0 0 91190
+S
+#91220
+A Room~
+~
+0 0 0
+D3
+~
+~
+0 0 91191
+S
+#91221
+~
+~
+0 0 0
+D5
+~
+~
+0 0 91222
+S
+#91222
+~
+~
+0 0 0
+D5
+~
+~
+0 0 3030
+S
+#0
+
+
+
+#SPECIALS
+M 91011 spec_thief
+M 91012 spec_guard
+M 91014 spec_guard
+M 91029 spec_eater
+M 91031 spec_cast_adept
+M 91064 spec_cast_adept
+M 91097 spec_guard
+M 91098 spec_guard
+S
+
+
+
+#RESETS
+M 0 91011 10 91012
+M 0 91013 30 91014
+M 0 91016 6 91021
+O 0 91022 0 91022
+O 0 91023 0 91023
+O 0 91024 0 91023
+M 0 91026 1 91026
+O 0 91028 0 91028
+M 0 91028 1 91028
+M 0 91029 5 91029
+M 0 91031 1 91031
+E 0 91031 0 17
+M 0 91032 4 91031
+M 0 91032 4 91031
+M 0 91032 4 91031
+M 0 91032 4 91031
+M 0 91033 1 91033
+E 0 91033 0 17
+M 0 91012 10 91038
+M 0 91013 30 91039
+M 0 91012 1 91039
+M 0 91012 1 91039
+M 0 91013 30 91040
+M 0 91012 1 91040
+M 0 91012 1 91040
+M 0 91013 30 91041
+M 0 91012 1 91041
+M 0 91012 1 91042
+M 0 91012 1 91042
+M 0 91013 30 91043
+M 0 91012 1 91043
+M 0 91049 1 91049
+M 0 91013 30 91050
+M 0 91013 30 91050
+M 0 91014 2 91050
+M 0 91013 30 91051
+M 0 91065 6 91051
+M 0 91099 3 91051
+M 0 91097 1 91051
+M 0 91013 30 91053
+M 0 91096 1 91053
+M 0 91057 1 91053
+M 0 91052 2 91053
+M 0 91052 2 91053
+M 0 91013 30 91054
+M 0 91095 1 91054
+M 0 91050 1 91054
+M 0 91058 1 91054
+M 0 91073 1 91054
+M 0 91066 2 91054
+M 0 91066 2 91054
+M 0 91013 30 91055
+M 0 91094 1 91055
+M 0 91086 1 91055
+M 0 91056 1 91055
+M 0 91054 1 91055
+M 0 91067 2 91055
+M 0 91067 2 91055
+M 0 91093 2 91056
+M 0 91090 1 91056
+M 0 91089 1 91056
+M 0 91074 1 91056
+M 0 91068 2 91056
+M 0 91068 2 91056
+M 0 91013 30 91057
+M 0 91050 1 91057
+M 0 91051 2 91057
+M 0 91051 2 91057
+M 0 91078 1 91057
+M 0 91075 1 91057
+M 0 91060 3 91058
+M 0 91061 3 91058
+M 0 91062 1 91058
+M 0 91088 1 91059
+M 0 91084 1 91059
+M 0 91081 1 91059
+M 0 91069 2 91059
+M 0 91069 2 91059
+M 0 91064 1 91061
+M 0 91087 1 91062
+M 0 91055 1 91062
+M 0 91053 1 91062
+M 0 91083 1 91063
+M 0 91080 1 91063
+M 0 91072 1 91063
+M 0 91091 1 91065
+M 0 91082 1 91065
+M 0 91070 1 91065
+M 0 91091 1 91067
+M 0 91079 1 91067
+M 0 91071 1 91067
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

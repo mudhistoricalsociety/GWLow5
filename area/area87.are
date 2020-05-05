@@ -1,0 +1,221 @@
+#AREADATA
+Name        New area~
+Builders    Aerith~
+VNUMs       98000 98100
+Security    1
+Recall      3001
+End
+
+
+
+#MOBILES
+#98000
+Flower Bestie~
+#1F#0l#1o#0w#1e#0t~
+A #1F#0l#1o#0w#1e#0t #7stands here looking at you...
+~
+A Flowet is here, awaiting your next move!
+~
+3 0 0 S
+19 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#98000
+a blue Ice Rod~
+a #4Blue #6 Ice #0 Rod..~
+#4a Blue#6Ice#0Rod..~
+~
+5 16707 8193
+0 800 910 3
+0 90000 0
+A
+19 99
+A
+-99 15
+A
+18 99
+A
+-99 15
+A
+-99 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#98001
+a Red Deception Dagger~
+a red Deception Dagger~
+A Red Deception Dagger~
+~
+5 16707 8193
+0 769 937 6
+0 99771 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#98002
+Black Gemstone Shield~
+black #0Gemstoned #9 Shield~
+A black #0 Gemstoned Shield~
+~
+9 0 513
+-2147483648 0 0 0
+0 9999999 0
+A
+13 999
+A
+19 18928
+A
+18 15000
+A
+-99 15
+A
+15 12
+A
+-99 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#98003
+Ring of Ice~
+the Ring of #4I#6c#4e~
+The Ring of Ice sits here~
+~
+9 0 3
+0 0 0 0
+0 0 0
+A
+13 700
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#98004
+A golden mask~
+a golden mask~
+A Golden Mask rests here~
+~
+9 0 -32767
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#98005
+Helm of Fire~
+engraved Helm~
+The Engraved Helm of Fire rests here~
+~
+9 16704 17
+0 0 0 0
+0 0 0
+A
+13 4000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#98006
+Bracer of Light~
+the bracer of light~
+The bracers of light rest here~
+~
+9 259 4097
+0 0 0 0
+0 0 0
+A
+13 8000
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#98007
+bright ball of light~
+bight ball of light~
+(no description)~
+~
+1 0 1
+0 0 2147483647 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#98000
+Flower Garden~
+You are standing in a room filled with exotic flowers.  In the center of
+this seemless plane there is a clocktower.  From afar the clocktower looks
+like it has some kind of miystical force surronding it.  You notice that the
+Mobs here dont look to tough, but perhaps they truely are.  
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

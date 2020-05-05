@@ -1,0 +1,92 @@
+#AREADATA
+Name        New area~
+Builders    Pure~
+VNUMs       90700 90799
+Security    1
+Recall      3001
+End
+
+
+
+#MOBILES
+#90700
+coach head~
+a head coach~
+The head coach stands here. growling because you entered the stadium
+~
+The head coach stands here, twirling his whistle.
+~
+1053 2184 0 S
+5001 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#90700
+football~
+a football~
+A normal size football lies here on the ground.~
+~
+5 20564 24577
+1 25 25 7
+0 5000 0
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#90700
+~
+~
+0 4 0
+D0
+~
+~
+0 0 90701
+S
+#90701
+~
+~
+0 0 0
+D2
+~
+~
+0 0 90700
+S
+#0
+
+
+
+#SPECIALS
+M 90700 spec_thief
+S
+
+
+
+#RESETS
+M 0 90700 1 90700
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

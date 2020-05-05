@@ -1,0 +1,107 @@
+#AREADATA
+Name        Temple of the Gods~
+Builders    Bucho~
+VNUMs       90600 90699
+Security    1
+Recall      3001
+End
+
+
+
+#MOBILES
+#90600
+Jesabel~
+Jesabel, Guardian of Love~
+Jesabel, who once was the defender of love and marriage, now stands broken hearted.
+~
+Jesabel, the once proud and giddy defender of love, was faced with
+travisty as the evil Lowchi destroyed her heart, breaking it into many
+pieces.  
+~
+2051 268435584 1000 S
+32 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#90601
+lowchi~
+Lowchi, the evil emperor of hate.~
+Lowchi, stands here with an evil grin on his face.
+~
+Lowchi a once pathetic heart broken man, has now finally gotten his
+revenge on his arch-nemisis, Jesabel.  
+~
+1027 8872 0 S
+3515 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#90600
+heart~
+a small piece of #1heart#n.~
+A small piece of a heart lies here.~
+~
+13 2 65
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90601
+bag wonders~
+the great bag of wonders.~
+A magical bag lies here.~
+~
+15 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#90600
+Bucho's Head Quarters~
+Wooo Hooo.  A constant party.  It seems everyone is drunk, or well
+on their way.  There is a game of poker in one corner, and strippers
+in another.  There seems to be a small dust-ridden work space, with
+parts of quest tokens scattered about. 
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

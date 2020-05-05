@@ -1,0 +1,1853 @@
+#AREADATA
+Name        Morpheaus     Hell~
+Builders    None~
+VNUMs       30100 30199
+Security    3
+Recall      0
+End
+
+
+
+#MOBILES
+#30100
+demonic guard mob~
+The Demonic Guard~
+A Demonic Guard is here, tormenting souls.
+~
+A demonic guard is the second rank in hell.  Every guard follows a hellspawn.  His job is to keep souls in eternal damnation.
+~
+65 552 -500 S
+624 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#30101
+eternally damned soul mob~
+The damned soul~
+A soul stands here, eternally damned.
+~
+He looks very sad...  He just sits here and weeps.  You notice that he seems very thin...
+as if he hasn't eaten in ages.  You feel kind of sorry for him.
+~
+65 33320 -100 S
+428 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#30102
+eternally damned soul mob~
+The damned soul~
+A soul stands here, eternally damned.
+~
+She looks very sad...  She just sits here and weeps.  You notice that she seems very thin...
+as if she hasn't eaten in ages.  You feel kind of sorry for her.
+~
+65 33320 100 S
+414 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#30103
+hell hound mob~
+The hell hound~
+The hell hound is here, snarling angrily.
+~
+A hell hound is an amazingly strong force.  It's teeth are extremely sharp, and can easily rip your body into tiny pieces.  Every hell hound follows a demonic guard.
+~
+65 552 -500 S
+493 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#30104
+mob hellspawn hell spawn~
+The Hellspawn~
+A Hellspawn is here, ready to slaughter.
+~
+The hellspawn is the main fighting force of hell.  Every hellspawn has a demonic guard under his command.  You can see that he has more powerful armor than a guard.
+~
+65 680 -500 S
+638 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#30105
+sfpl'er sfpl soul damned mob~
+The SFPL'er~
+The soul of a SFPL'er is standing here, being tormented.
+~
+He looks like a geek!  Everybody is making fun of this wimp.  You feel absolutely no pity for him.  All SFPL'ers eventually go to hell.
+~
+65 0 0 S
+310 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#30106
+mob elf flame~
+The elf~
+The flames flare brighter here.
+~
+Every elf follows a hellspawn.  The elf looks kind of small, but is incredibly strong in mind.  Elves have no soul.  You notice that this elf is disguised as a flame.
+~
+65 32768 -1000 S
+386 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#30107
+demon mob~
+The demon~
+A demon is flying around here, tormenting souls.
+~
+A demon usually flys around with a harpy.  They make an excellent team.  The harpy torments the SFPL'ers, while the demon torments everybody else.
+~
+65 32768 -500 S
+420 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#30108
+harpy mob~
+The harpy~
+A harpy is flying around here, tormenting SFPL'ers.
+~
+A harpy usually flys around with a demon.  They make an excellent team.  The harpy torments the SFPL'ers, while the demon torments everybody else.
+~
+65 32768 -500 S
+412 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#30109
+zerolife~
+The Avatar of Morpheaus~
+The Avatar of Morpheaus is here, dealing justice.
+~
+He is the avatar of the High Judge Morpheaus.  He is the lord of hell.  He destroyed Satan long ago.  Everybody fears him.
+~
+99 41640 -1000 S
+3004 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#30100
+redemption~
+the Redemption of God~
+A glowing aura lies on the floor.~
+~
+9 3073 1025
+0 0 0 0
+5 0 0
+A
+18 7
+A
+19 7
+A
+1 5
+A
+2 5
+A
+3 5
+A
+4 5
+A
+5 5
+A
+17 -100
+A
+23 -100
+A
+24 -100
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#30101
+freedom~
+freedom~
+~
+~
+15 0 8192
+0 15 9902 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#30102
+sword satan~
+the Sword of Satan~
+A dark, evil sword lies here.~
+~
+18 0 16385
+0 0 0 0
+5 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#30103
+hellfire stable~
+stable hellfire~
+Hellfire that has been stablelized hovers in the center of the room.~
+~
+18 1 1025
+0 0 0 0
+5 0 0
+A
+18 3
+A
+19 4
+A
+13 100
+A
+12 100
+A
+14 100
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#30100
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D1
+~
+~
+0 -1 30101
+S
+#30101
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D1
+~
+~
+0 -1 30102
+D3
+~
+~
+0 -1 30100
+S
+#30102
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D1
+~
+~
+0 -1 30103
+D2
+~
+~
+0 -1 30104
+D3
+~
+~
+0 -1 30101
+S
+#30103
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D1
+~
+~
+0 -1 30104
+D2
+~
+~
+0 -1 30115
+D3
+~
+~
+0 -1 30102
+S
+#30104
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D0
+~
+~
+0 -1 30102
+D3
+~
+~
+0 -1 30103
+S
+#30105
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D2
+~
+~
+0 -1 30117
+S
+#30106
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D1
+~
+~
+0 -1 30107
+S
+#30107
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D2
+~
+~
+0 -1 30119
+D3
+~
+~
+0 -1 30106
+S
+#30108
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D2
+~
+~
+0 -1 30120
+S
+#30109
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D1
+~
+~
+0 -1 30110
+S
+#30110
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D2
+~
+~
+0 -1 30122
+D3
+~
+~
+0 -1 30109
+S
+#30111
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D2
+~
+~
+0 -1 30123
+S
+#30112
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D1
+~
+~
+0 -1 30198
+D2
+~
+~
+0 -1 30124
+S
+#30113
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D2
+~
+~
+0 -1 30125
+S
+#30114
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+S
+#30115
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30103
+D2
+~
+~
+0 -1 30127
+S
+#30116
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D1
+~
+~
+0 -1 30117
+S
+#30117
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30105
+D2
+~
+~
+0 -1 30129
+D3
+~
+~
+0 -1 30116
+S
+#30118
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D1
+~
+~
+0 -1 30119
+S
+#30119
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30107
+D1
+~
+~
+0 -1 30120
+D2
+~
+~
+0 -1 30131
+D3
+~
+~
+0 -1 30118
+S
+#30120
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D0
+~
+~
+0 -1 30108
+D1
+~
+~
+0 -1 30121
+D2
+~
+~
+0 -1 30132
+D3
+~
+~
+0 -1 30119
+S
+#30121
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D1
+~
+~
+0 -1 30122
+D3
+~
+~
+0 -1 30120
+S
+#30122
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D0
+~
+~
+0 -1 30110
+D1
+~
+~
+0 -1 30123
+D3
+~
+~
+0 -1 30121
+S
+#30123
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30111
+D1
+~
+~
+0 -1 30124
+D3
+~
+~
+0 -1 30122
+S
+#30124
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30112
+D3
+~
+~
+0 -1 30123
+S
+#30125
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D0
+~
+~
+0 -1 30113
+D2
+~
+~
+0 -1 30137
+S
+#30126
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D2
+~
+~
+0 -1 30138
+S
+#30127
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D0
+~
+~
+0 -1 30115
+D1
+~
+~
+0 -1 30128
+D2
+~
+~
+0 -1 30139
+S
+#30128
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D1
+~
+~
+0 -1 30129
+D3
+~
+~
+0 -1 30127
+S
+#30129
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D0
+~
+~
+0 -1 30117
+D2
+~
+~
+0 -1 30141
+D3
+~
+~
+0 -1 30128
+S
+#30130
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D1
+~
+~
+0 -1 30131
+S
+#30131
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D0
+~
+~
+0 -1 30119
+D2
+~
+~
+0 -1 30143
+D3
+~
+~
+0 -1 30130
+S
+#30132
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D0
+~
+~
+0 -1 30120
+D1
+~
+~
+0 -1 30133
+S
+#30133
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D1
+~
+~
+0 -1 30134
+D2
+~
+~
+0 -1 30145
+D3
+~
+~
+0 -1 30132
+S
+#30134
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D1
+~
+~
+0 -1 30135
+D3
+~
+~
+0 -1 30133
+S
+#30135
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D1
+~
+~
+0 -1 30136
+D3
+~
+~
+0 -1 30134
+S
+#30136
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D3
+~
+~
+0 -1 30135
+S
+#30137
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30125
+D1
+~
+~
+0 -1 30138
+D2
+~
+~
+0 -1 30149
+S
+#30138
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D0
+~
+~
+0 -1 30126
+D3
+~
+~
+0 -1 30137
+S
+#30139
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30127
+D2
+~
+~
+0 -1 30151
+S
+#30140
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D1
+~
+~
+0 -1 30141
+D2
+~
+~
+0 -1 30152
+S
+#30141
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D0
+~
+~
+0 -1 30129
+D2
+~
+~
+0 -1 30153
+D3
+~
+~
+0 -1 30140
+S
+#30142
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D2
+~
+~
+0 -1 30154
+S
+#30143
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30131
+D2
+~
+~
+0 -1 30155
+S
+#30144
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D1
+~
+~
+0 -1 30145
+S
+#30145
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30133
+D1
+~
+~
+0 -1 30146
+D3
+~
+~
+0 -1 30144
+S
+#30146
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D1
+~
+~
+0 -1 30147
+D2
+~
+~
+0 -1 30158
+D3
+~
+~
+0 -1 30145
+S
+#30147
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D1
+~
+~
+0 -1 30148
+D3
+~
+~
+0 -1 30146
+S
+#30148
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D2
+~
+~
+0 -1 30160
+D3
+~
+~
+0 -1 30147
+S
+#30149
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D0
+~
+~
+0 -1 30137
+D2
+~
+~
+0 -1 30161
+S
+#30150
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.  The fire on the floor seems to spell something.
+~
+0 4 1
+E
+fire floor~
+"The sword of Satan is the key to freedom, and within freedom is the redemption of God!"~
+D0
+~
+~
+33 -1 30184
+S
+#30151
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D0
+~
+~
+0 -1 30139
+D2
+~
+~
+0 -1 30163
+D3
+~
+~
+0 -1 30196
+S
+#30152
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30140
+S
+#30153
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30141
+D1
+~
+~
+0 -1 30154
+S
+#30154
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D0
+~
+~
+0 -1 30142
+D1
+~
+~
+0 -1 30155
+D3
+~
+~
+0 -1 30153
+S
+#30155
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D0
+~
+~
+0 -1 30143
+D3
+~
+~
+0 -1 30154
+S
+#30156
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D2
+~
+~
+0 -1 30168
+S
+#30157
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D1
+~
+~
+0 -1 30158
+S
+#30158
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D0
+~
+~
+0 -1 30146
+D1
+~
+~
+0 -1 30159
+D2
+~
+~
+0 -1 30170
+D3
+~
+~
+0 -1 30157
+S
+#30159
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D3
+~
+~
+0 -1 30158
+S
+#30160
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30148
+S
+#30161
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30149
+D1
+~
+~
+0 -1 30162
+D2
+~
+~
+0 -1 30173
+S
+#30162
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D2
+~
+~
+0 -1 30174
+D3
+~
+~
+0 -1 30161
+S
+#30163
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30151
+D1
+~
+~
+0 -1 30164
+S
+#30164
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D2
+~
+~
+0 -1 30176
+D3
+~
+~
+0 -1 30163
+S
+#30165
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D2
+~
+~
+0 -1 30177
+S
+#30166
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D1
+~
+~
+0 -1 30167
+S
+#30167
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D1
+~
+~
+0 -1 30168
+D2
+~
+~
+0 -1 30179
+D3
+~
+~
+0 -1 30166
+S
+#30168
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30156
+D1
+~
+~
+0 -1 30169
+D3
+~
+~
+0 -1 30167
+S
+#30169
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D3
+~
+~
+0 -1 30168
+S
+#30170
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30158
+D2
+~
+~
+0 -1 30182
+S
+#30171
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D1
+~
+~
+0 -1 30172
+D2
+~
+~
+0 -1 30183
+S
+#30172
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D3
+~
+~
+0 -1 30171
+S
+#30173
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D0
+~
+~
+0 -1 30161
+D2
+~
+~
+0 -1 30185
+S
+#30174
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D0
+~
+~
+0 -1 30162
+S
+#30175
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D1
+~
+~
+0 -1 30176
+D2
+~
+~
+0 -1 30187
+S
+#30176
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30164
+D3
+~
+~
+0 -1 30175
+S
+#30177
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30165
+D1
+~
+~
+0 -1 30178
+S
+#30178
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D1
+~
+~
+0 -1 30179
+D2
+~
+~
+0 -1 30190
+D3
+~
+~
+0 -1 30177
+S
+#30179
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30167
+D1
+~
+~
+0 -1 30180
+D2
+~
+~
+0 -1 30191
+D3
+~
+~
+0 -1 30178
+S
+#30180
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D1
+~
+~
+0 -1 30181
+D2
+~
+~
+0 -1 30192
+D3
+~
+~
+0 -1 30179
+S
+#30181
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D3
+~
+~
+0 -1 30180
+S
+#30182
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D0
+~
+~
+0 -1 30170
+D1
+~
+~
+0 -1 30183
+D2
+~
+~
+0 -1 30194
+S
+#30183
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30171
+D1
+~
+~
+0 -1 30184
+D3
+~
+~
+0 -1 30182
+S
+#30184
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D1
+~
+~
+0 -1 30199
+D2
+~
+~
+33 30103 30150
+D3
+~
+~
+0 -1 30183
+S
+#30185
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D0
+~
+~
+0 -1 30173
+D1
+~
+~
+0 -1 30186
+D3
+~
+~
+0 -1 30197
+S
+#30186
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D1
+~
+~
+0 -1 30187
+D3
+~
+~
+0 -1 30185
+S
+#30187
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30175
+D1
+~
+~
+0 -1 30188
+D3
+~
+~
+0 -1 30186
+S
+#30188
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D1
+~
+~
+0 -1 30189
+D3
+~
+~
+0 -1 30187
+S
+#30189
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D1
+~
+~
+0 -1 30190
+D3
+~
+~
+0 -1 30188
+S
+#30190
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30178
+D3
+~
+~
+0 -1 30189
+S
+#30191
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D0
+~
+~
+0 -1 30179
+S
+#30192
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D0
+~
+~
+0 -1 30180
+D1
+~
+~
+0 -1 30193
+S
+#30193
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D3
+~
+~
+0 -1 30192
+S
+#30194
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D0
+~
+~
+0 -1 30182
+D1
+~
+~
+0 -1 30195
+S
+#30195
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D3
+~
+~
+0 -1 30194
+S
+#30196
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D1
+~
+~
+0 -1 30151
+S
+#30197
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D1
+~
+~
+0 -1 30185
+S
+#30198
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 4 1
+D3
+~
+~
+0 -1 30112
+S
+#30199
+Hell~
+You are standing on a burning floor.  All around you is fire.  You hear cries of pain all around you.
+~
+0 8196 1
+D3
+~
+~
+0 -1 30184
+S
+#0
+
+
+
+#SPECIALS
+M 30100 spec_guard
+M 30101 spec_fido
+M 30102 spec_fido
+M 30103 spec_fido
+M 30106 spec_breath_any
+M 30109 spec_cast_undead
+S
+
+
+
+#RESETS
+R 0 30100 4
+M 0 30100 2 30100
+M 0 30101 10 30100
+M 0 30102 10 30100
+M 0 30103 1 30100
+M 0 30104 1 30100
+M 0 30105 15 30100
+M 0 30106 1 30100
+M 0 30107 1 30100
+M 0 30108 1 30100
+R 0 30101 4
+R 0 30102 4
+R 0 30103 4
+R 0 30104 4
+R 0 30105 4
+M 0 30101 20 30105
+R 0 30106 4
+R 0 30107 4
+R 0 30108 4
+R 0 30109 4
+R 0 30110 4
+M 0 30100 2 30110
+M 0 30101 10 30110
+M 0 30102 10 30110
+M 0 30103 1 30110
+M 0 30104 1 30110
+M 0 30105 15 30110
+M 0 30106 1 30110
+M 0 30107 1 30110
+M 0 30108 1 30110
+R 0 30111 4
+R 0 30112 4
+R 0 30113 4
+R 0 30114 4
+R 0 30115 4
+M 0 30102 20 30115
+R 0 30116 4
+R 0 30117 4
+R 0 30118 4
+R 0 30119 4
+R 0 30120 4
+M 0 30100 2 30120
+M 0 30101 10 30120
+M 0 30102 10 30120
+M 0 30103 1 30120
+M 0 30104 1 30120
+M 0 30105 15 30120
+M 0 30106 1 30120
+M 0 30107 1 30120
+M 0 30108 1 30120
+R 0 30121 4
+R 0 30122 4
+R 0 30123 4
+R 0 30124 4
+R 0 30125 4
+M 0 30101 20 30125
+R 0 30126 4
+R 0 30127 4
+R 0 30128 4
+R 0 30129 4
+R 0 30130 4
+M 0 30100 2 30130
+M 0 30101 10 30130
+M 0 30102 10 30130
+M 0 30103 1 30130
+M 0 30104 1 30130
+M 0 30105 15 30130
+M 0 30106 1 30130
+M 0 30107 1 30130
+M 0 30108 1 30130
+R 0 30131 4
+R 0 30132 4
+R 0 30133 4
+R 0 30134 4
+R 0 30135 4
+M 0 30102 20 30135
+R 0 30136 4
+R 0 30137 4
+R 0 30138 4
+R 0 30139 4
+R 0 30140 4
+M 0 30100 2 30140
+M 0 30101 10 30140
+M 0 30102 10 30140
+M 0 30103 1 30140
+M 0 30104 1 30140
+M 0 30105 15 30140
+M 0 30106 1 30140
+M 0 30107 1 30140
+M 0 30108 1 30140
+R 0 30141 4
+R 0 30142 4
+O 0 30103 0 30142
+R 0 30143 4
+R 0 30144 4
+R 0 30145 4
+M 0 30102 20 30145
+R 0 30146 4
+R 0 30147 4
+R 0 30148 4
+R 0 30149 4
+R 0 30150 4
+M 0 30109 1 30150
+E 0 30102 0 17
+O 0 30101 0 30150
+P 0 30101 0 9901
+R 0 30151 4
+R 0 30152 4
+R 0 30153 4
+R 0 30154 4
+R 0 30155 4
+M 0 30101 20 30155
+R 0 30156 4
+R 0 30157 4
+R 0 30158 4
+R 0 30159 4
+R 0 30160 4
+M 0 30100 2 30160
+M 0 30101 10 30160
+M 0 30102 10 30160
+M 0 30103 1 30160
+M 0 30104 1 30160
+M 0 30105 15 30160
+M 0 30106 1 30160
+M 0 30107 1 30160
+M 0 30108 1 30160
+R 0 30161 4
+R 0 30162 4
+R 0 30163 4
+R 0 30164 4
+R 0 30165 4
+M 0 30101 20 30165
+R 0 30166 4
+R 0 30167 4
+R 0 30168 4
+R 0 30169 4
+R 0 30170 4
+M 0 30100 2 30170
+M 0 30101 10 30170
+M 0 30102 10 30170
+M 0 30103 1 30170
+M 0 30104 1 30170
+M 0 30105 15 30170
+M 0 30106 1 30170
+M 0 30107 1 30170
+M 0 30108 1 30170
+R 0 30171 4
+R 0 30172 4
+R 0 30173 4
+R 0 30174 4
+R 0 30175 4
+M 0 30102 20 30175
+R 0 30176 4
+R 0 30177 4
+R 0 30178 4
+R 0 30179 4
+R 0 30180 4
+M 0 30100 2 30180
+M 0 30101 10 30180
+M 0 30102 10 30180
+M 0 30103 1 30180
+M 0 30104 1 30180
+M 0 30105 15 30180
+M 0 30106 1 30180
+M 0 30107 1 30180
+M 0 30108 1 30180
+R 0 30181 4
+R 0 30182 4
+R 0 30183 4
+R 0 30184 4
+R 0 30185 4
+M 0 30101 20 30185
+R 0 30186 4
+R 0 30187 4
+R 0 30188 4
+R 0 30189 4
+R 0 30190 4
+M 0 30100 2 30190
+M 0 30101 10 30190
+M 0 30102 10 30190
+M 0 30103 1 30190
+M 0 30104 1 30190
+M 0 30105 15 30190
+M 0 30106 1 30190
+M 0 30107 1 30190
+M 0 30108 1 30190
+R 0 30191 4
+R 0 30192 4
+R 0 30193 4
+R 0 30194 4
+R 0 30195 4
+M 0 30102 20 30195
+R 0 30196 4
+R 0 30197 4
+R 0 30198 4
+R 0 30199 4
+M 0 30100 2 30199
+M 0 30101 10 30199
+M 0 30101 10 30199
+M 0 30103 1 30199
+M 0 30104 1 30199
+M 0 30105 15 30199
+M 0 30106 1 30199
+M 0 30107 1 30199
+M 0 30108 1 30199
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

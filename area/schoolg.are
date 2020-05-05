@@ -1,0 +1,303 @@
+#AREADATA
+Name        Schoolgirl's HQ~
+Builders    Katrina~
+VNUMs       45000 45010
+Security    9
+Recall      3001
+End
+
+
+
+#MOBILES
+#45000
+adept girl slut~
+(no short description)~
+(no long description)
+~
+~
+1 4194856 -1000 S
+6014 0 0 60d0+0 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#45000
+schoolgirls altar~
+the altar of the #TS#5c#0h#no#7o#0l#ng#7i#0r#nl#5s#n~
+The smell of sandalwood and myrrh comes from a small altar here.~
+~
+15 3584 0
+50000000 3 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#45000
+The altar room~
+This is a tiny room where the girls can gather after a hard day of
+dutifully studying.  There is a tiny mirror where the girls can re-apply
+their makeup, and several chairs and couches have been set about in the
+room.  It is dimly lit, and most of the furniture seems to centre about the
+altar in the middle of the room, which has upon it their symbol, carved into
+the wood.  
+~
+0 17417 0
+D0
+~
+~
+3 0 45002
+D1
+~
+~
+3 0 45001
+D3
+~
+~
+3 0 45007
+S
+#45001
+A dark side room~
+A small door is the only entrance and exit to this room.  The walls have
+been painted completely black, and the only think that immediately catches
+your eye is the four-poster bed up against the wall.  Handcuffs dangle from
+each post, the metal shining in the dim light, and a small wooden box marked
+'Toys' rests at the foot of it.  
+~
+0 16905 0
+D3
+~
+~
+3 0 45000
+S
+#45002
+#TA quiet meditative chamber#n~
+The walls in this room have been draped in purple velvet, and the only
+fixture is a small machine in the corner.  This room, like all the others,
+is dimly lit, and it seems as if a spell of silence has been cast here.  You
+can go back south to the altar room, or to your east, where the small
+sparring arena is.  
+~
+0 524296 0
+D1
+~
+~
+3 0 45003
+D2
+~
+~
+3 0 45000
+S
+#45003
+#QThe south-west corner of the arena#n~
+This area is the only part of the headquarters in which violence is
+permitted.  Padded mats cover the floors, although you can discern a few
+faded bloodstains that the best cleaning couldn't get out.  Grunts and cries
+can be heard from about the four-room arena, however none of them seem
+female.  
+~
+0 8 0
+D0
+~
+~
+0 0 45004
+D1
+~
+~
+0 0 45005
+D3
+~
+~
+3 0 45002
+S
+#45004
+#QThe north-west corner of the arena#n~
+This area is the only part of the headquarters in which violence is
+permitted.  Padded mats cover the floors, although you can discern a few
+faded bloodstains that the best cleaning couldn't get out.  Grunts and cries
+can be heard from about the four-room arena, however none of them seem to be
+female.  
+~
+0 8 0
+D1
+~
+~
+0 0 45006
+D2
+~
+~
+0 0 45003
+S
+#45005
+#QThe south-east corner of the arena#n~
+This area is the only part of the headquarters in which violence is
+permitted.  Padded mats cover the floors, although you can discern a few
+bloodstains that the best cleaning couldn't get out.  Grunts and cries can
+be heard from around the four-room arena, however none of them seem to be
+female.  
+~
+0 8 0
+D0
+~
+~
+0 0 45006
+D3
+~
+~
+0 0 45003
+S
+#45006
+#QThe north-east corner of the arena#n~
+This area is the only part of the headquarters in which violence is
+permitted.  Padded mats cover the floors, although you can discern a few
+faded bloodstains that the best cleaning couldn't get out.  Grunts and cries
+can be heard from about the four-room arena, however none of them seem to be
+female.  
+~
+0 8 0
+D2
+~
+~
+0 0 45005
+D3
+~
+~
+0 0 45004
+S
+#45007
+#TA deep, purple void#n~
+You float in a deep, formless purple void.  Everything in here seems to
+be moving about, including yourself, with one exception.  The only
+stationary object is the rather plain-looking wooden door that you stepped
+out of earlier.  There don't appear to be any exits, but you seem to be able
+to go in any direction you think you can; You have the ability to go
+wherever you wish through here.  
+~
+0 0 0
+D0
+~
+~
+0 0 5134
+D1
+~
+~
+3 0 45000
+D2
+~
+~
+0 0 910
+D3
+~
+~
+0 0 45008
+D4
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 2646
+S
+#45008
+#TA deep, purple void#n~
+You float in a deep, formless purple void.  Everything in here seems to
+be moving about, including yourself, with one exception.  Off to your east,
+you can make out a door, and it appears to be stationary, at least for now. 
+You find you can almost swim through the aether here, making your own exits
+to wherever you wish.  
+~
+0 0 0
+D0
+~
+~
+0 0 11000
+D1
+~
+~
+0 0 45007
+D2
+~
+~
+0 0 25008
+D3
+~
+~
+0 0 45010
+D4
+~
+~
+0 0 8116
+D5
+~
+~
+0 0 2549
+S
+#45010
+#TA deep, purple void#n~
+You float about in a deep, formless purple void.  Everything in here
+seems to be moving about, swilring continuously, even yourself.  There
+doesn't appear to be anything that isn't moving, and you get disoriented
+just staying still, or at least trying to.  You find that if you concentrate
+hard enough, you can go wherever you wish from here, if you can manage to
+swim in the right direction through the aether.  
+~
+0 0 0
+D0
+~
+~
+0 0 1477
+D1
+~
+~
+0 0 45008
+D2
+~
+~
+0 0 7706
+D3
+~
+~
+0 0 45007
+D4
+~
+~
+0 0 2362
+D5
+~
+~
+0 0 9209
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 45000 0 45000
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,132 @@
+#AREADATA
+Name        Monk HeadQuarters~
+Builders    Kombat Jason~
+VNUMs       40000 40010
+Security    1
+Recall      3001
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#40000
+Inside the Monk Temple~
+This is the main room of the Temple.  The ceiling is extremely high. 
+Massive pillars surround you.  
+~
+0 5259264 0
+D0
+~
+~
+0 0 40003
+D1
+~
+~
+0 0 40005
+D2
+~
+~
+0 0 3001
+D3
+~
+~
+0 0 40004
+D4
+~
+~
+0 0 40001
+S
+#40001
+The Portal Chamber~
+North: Staff
+East: Sphinx
+South: Atlantis
+West: Doom
+~
+0 5259264 0
+D0
+~
+~
+0 0 25000
+D1
+~
+~
+0 0 2652
+D2
+~
+~
+0 0 8116
+D3
+~
+~
+0 0 11001
+D5
+~
+~
+0 0 40000
+S
+#40003
+The Altar~
+This room is surrounded by candles...  This is usually where most of the
+monks rest.  
+~
+0 4211716 0
+D2
+~
+~
+0 0 40000
+S
+#40004
+The Meditation Chamber~
+You are inside a bare room.  Monks come here to meditate by themselves
+and become closer to God.  
+~
+0 5262348 0
+D1
+~
+~
+0 0 40000
+S
+#40005
+The Sparring Chamber~
+You are inside the sparring chamber.  Monks come here to test their
+skills against other monks.  This way, they can improve and kill the enemies
+of God.  
+~
+0 5259780 0
+D3
+~
+~
+0 0 40000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 10002 2 40000
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

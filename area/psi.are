@@ -1,0 +1,154 @@
+#AREADATA
+Name        (Dracos) Psi HQ~
+Builders    None~
+VNUMs       100050 100070
+Security    9
+Recall      3001
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#100050
+Entrance To Psi HQ~
+You are standing in the entrance to the psionicist hq.  It
+looks to be a spectacular place, there are globes of pure energy floating around here.
+~
+0 0 0
+D0
+~
+~
+0 0 100051
+S
+#100051
+Just inside Psi hq~
+You are standing inside the psi hq, go down to get to the portals, go north
+to get to the altar, and west to get to the donation room.
+~
+0 2 0
+D0
+~
+~
+0 0 100052
+D2
+~
+~
+0 0 100050
+D3
+~
+~
+0 0 100053
+D5
+~
+~
+0 0 100054
+S
+#100052
+Altar~
+You are standing in the psi temple altar
+~
+0 41986 0
+D2
+~
+~
+0 0 100051
+S
+#100053
+Donation room~
+This is the psi donation room.
+~
+0 2 0
+D1
+~
+~
+0 0 100051
+S
+#100054
+Portal Room~
+~
+0 0 0
+D0
+~
+~
+0 0 25000
+D1
+~
+~
+0 0 669
+D2
+~
+~
+0 0 1312
+D3
+~
+~
+0 0 100055
+D4
+~
+~
+0 0 100051
+D5
+~
+~
+0 0 5300
+S
+#100055
+Portal Room~
+use exits to see where you can go
+~
+0 0 0
+D0
+~
+~
+0 0 9302
+D1
+~
+~
+0 0 100054
+D2
+~
+~
+0 0 2652
+D3
+~
+~
+0 0 8114
+D4
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 2549
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$
